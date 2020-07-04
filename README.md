@@ -28,6 +28,11 @@ pip install -r requirements.txt
     "cookie": "your cookie"
 }
 ```
+## 删掉部分字段
+如果不想看见微博位置、发布工具、转发数、评论数可以这样过滤:
+```bash
+sed -e "/\(微博位置\|发布工具\|转发数\|评论数\)/d" 2020-5/1402400261_2020_5.txt
+```
 ## 声明
 我们不生产知识，我们只是知识的搬运工。
 ## 参考资料
@@ -35,3 +40,4 @@ pip install -r requirements.txt
 - [github.com/dataabc/weiboSpider](https://github.com/dataabc/weiboSpider)
 - [如何获取user_id](https://github.com/dataabc/weiboSpider/blob/master/docs/userid.md)
 - [如何获取cookie](https://github.com/dataabc/weiboSpider#如何获取cookie)
+- [sed 多条件的与或处理](https://zhidao.baidu.com/question/430076056664891372.html)
