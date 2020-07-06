@@ -33,6 +33,7 @@ pip install -r requirements.txt
 ```bash
 sed -e "/\(微博位置\|发布工具\|转发数\|评论数\)/d" 2020-5/1402400261_2020_5.txt
 ```
+为节省空间和方便搜索，本仓库只包含文本。平时可以用`第三方微博客户端Share`在手机上查看原微博，Share的高级版具有按时间轴查看的功能。
 ## 声明
 我们不生产知识，我们只是知识的搬运工。
 ## 参考资料
@@ -41,3 +42,4 @@ sed -e "/\(微博位置\|发布工具\|转发数\|评论数\)/d" 2020-5/14024002
 - [如何获取user_id](https://github.com/dataabc/weiboSpider/blob/master/docs/userid.md)
 - [如何获取cookie](https://github.com/dataabc/weiboSpider#如何获取cookie)
 - [sed 多条件的与或处理](https://zhidao.baidu.com/question/430076056664891372.html)
+- [Share：最简洁最好用的微博客户端！](https://zhuanlan.zhihu.com/p/62053265)
