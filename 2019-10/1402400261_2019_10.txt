@@ -1,0 +1,3360 @@
+用户信息：
+用户昵称：爱可可-爱生活
+用户id：1402400261
+微博数：91539
+关注数：744
+粉丝数：750073
+
+原创微博内容：
+晚安~  原图 
+微博位置：无
+发布时间：2019-10-31 21:34
+点赞数：38
+转发数：4
+评论数：6
+发布工具：微博 weibo.com
+
+《爱可可老师24小时热门分享(2019.10.31)》  爱可可老师24小时热门分享(2019.10.31)  
+微博位置：无
+发布时间：2019-10-31 21:33
+点赞数：8
+转发数：3
+评论数：0
+发布工具：微博 weibo.com
+
+表面张力 🤩  原图 
+微博位置：无
+发布时间：2019-10-31 20:18
+点赞数：39
+转发数：7
+评论数：2
+发布工具：Mac客户端
+
+【JupyterLab 的注释、标记扩展】’JupyterLab Commenting and Annotation' GitHub: http://t.cn/Ai1rRq8y  原图 
+微博位置：无
+发布时间：2019-10-31 14:21
+点赞数：18
+转发数：10
+评论数：8
+发布工具：Mac客户端
+
+'PyTorch Wrapper for Earth-Mover-Distance (EMD) for 3D point cloud regression' by Kaichun Mo GitHub: http://t.cn/Ai1r8mQt  
+微博位置：无
+发布时间：2019-10-31 14:19
+点赞数：12
+转发数：21
+评论数：1
+发布工具：Mac客户端
+
+'中文独立博客列表' by Tim Qian GitHub: http://t.cn/Ai1r8ClD  原图 
+微博位置：无
+发布时间：2019-10-31 14:19
+点赞数：51
+转发数：61
+评论数：24
+发布工具：Mac客户端
+
+'区块链小白书' by xiaolai GitHub: http://t.cn/Ai1BlPmn  原图 
+微博位置：无
+发布时间：2019-10-31 14:18
+点赞数：27
+转发数：43
+评论数：14
+发布工具：Mac客户端
+
+【Scikit-Learn 实战教程】’Scikit-Learn tutorial - 520' by Loïc Estève GitHub: http://t.cn/Ai1rl3fx  原图 
+微博位置：无
+发布时间：2019-10-31 14:03
+点赞数：31
+转发数：72
+评论数：16
+发布工具：Mac客户端
+
+【为 cell 增加标签的JupyterLab扩展】’jupyterlab-celltags - A JupyterLab extension for notebook cell tags' GitHub: http://t.cn/Ai1r0uf4  原图 
+微博位置：无
+发布时间：2019-10-31 13:56
+点赞数：14
+转发数：4
+评论数：2
+发布工具：Mac客户端
+
+【VMTK血管建模工具包：图像3D重建、几何分析、网格生成和表面数据分析的血管建模库/工具集】'VMTK - the Vascular Modeling Toolkit' GitHub: http://t.cn/Ai1rSAyO  [组图共5张] 原图 
+微博位置：无
+发布时间：2019-10-31 13:36
+点赞数：16
+转发数：40
+评论数：4
+发布工具：Mac客户端
+
+【开发运维(DevOps)入门到进阶指南(含面试问题、笔记)】’DevOps Guide from basic to advanced with Interview Questions and Notes' by Tikam Singh Alma http://t.cn/Ai1rV7U6 GitHub: http://t.cn/Ai1rV7U9  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-31 13:10
+点赞数：43
+转发数：67
+评论数：10
+发布工具：Mac客户端
+
+'spaCy Server - Containerized HTTP API for spaCy NLP' by Neel Kamath GitHub: http://t.cn/Ai1rcMSn  原图 
+微博位置：无
+发布时间：2019-10-31 13:08
+点赞数：2
+转发数：4
+评论数：1
+发布工具：Mac客户端
+
+【C++11实现的、支持多平台的实时数学运算库(Python)】’Realtime Math - geared towards realtime applications that require their math to be as fast as possible' by Nicholas Frechette GitHub: http://t.cn/Ai1rtKbY  原图 
+微博位置：无
+发布时间：2019-10-31 13:05
+点赞数：27
+转发数：37
+评论数：12
+发布工具：Mac客户端
+
+'The Harmonix Set: Beats, Downbeats, and Structural Annotations for Pop Music' by Oriol Nieto GitHub: http://t.cn/Ai1rqhlg  原图 
+微博位置：无
+发布时间：2019-10-31 12:59
+点赞数：3
+转发数：4
+评论数：1
+发布工具：Mac客户端
+
+克服拖延小贴士：一件事，3分钟能搞定，马上去做；3分钟搞不定，简化/拆解成3分钟能搞定的小目标，马上去做。焦虑毫无意义，*做*就对了。  原图 
+微博位置：无
+发布时间：2019-10-31 08:58
+点赞数：111
+转发数：100
+评论数：13
+发布工具：Mac客户端
+
+'(Generic) EfficientNets for PyTorch - Pretrained EfficientNet, MixNet, MobileNetV3, MNASNet A1 and B1, FBNet, Single-Path NAS' by Ross Wightman GitHub: http://t.cn/Ai11lLPw  原图 
+微博位置：无
+发布时间：2019-10-31 08:43
+点赞数：21
+转发数：47
+评论数：8
+发布工具：Mac客户端
+
+2019进度：▓▓▓▓▓▓▓▓▓▓▓▓░░░ 83% ⛽️  
+微博位置：无
+发布时间：2019-10-31 08:37
+点赞数：42
+转发数：24
+评论数：3
+发布工具：Mac客户端
+
+《Keras / TPU integration in Tensorflow 2.1 (unreleased)》http://t.cn/Ai110RKV  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-31 08:36
+点赞数：4
+转发数：7
+评论数：2
+发布工具：Mac客户端
+
+【用 TensorFlow 2.0 原生API实现图像分类】《Image Classification With TensorFlow 2.0 ( Without Keras )》by Shubham Panchal http://t.cn/Ai11N692 pdf:http://t.cn/Ai11N69y  原图 
+微博位置：无
+发布时间：2019-10-31 08:29
+点赞数：16
+转发数：27
+评论数：4
+发布工具：Mac客户端
+
+【Bengio 的 'Why' 因果关系探索之路】《An AI Pioneer Wants His Algorithms to Understand the 'Why' | WIRED》 http://t.cn/Ai11a3vw  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-31 08:13
+点赞数：11
+转发数：58
+评论数：2
+发布工具：Mac客户端
+
+《Estimating Skin Tone and Effects on Classification Performance in Dermatology Datasets》N M. Kinyanjui, T Odonga, C Cintas, N C. F. Codella, R Panda, P Sattigeri, K R. Varshney [IBM Research & Cambridge] (2019) http://t.cn/Ai131dU3 view:http://t.cn/Ai131dUB  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-31 06:13
+点赞数：5
+转发数：10
+评论数：4
+发布工具：微博 weibo.com
+
+《Scalable Deep Neural Networks via Low-Rank Matrix Factorization》A Yaguchi, T Suzuki, S Nitta, Y Sakata, A Tanizawa [Toshiba Corporation & The University of Tokyo] (2019) http://t.cn/Ai13m9B8 view:http://t.cn/Ai13m9BE  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-31 06:00
+点赞数：14
+转发数：22
+评论数：4
+发布工具：微博 weibo.com
+
+《Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support》Y Zhou, H Yang, Y W Teh, T Rainforth [University of Oxford & KAIST] (2019) http://t.cn/Ai13nwEU view:http://t.cn/Ai13nwE7  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:55
+点赞数：7
+转发数：9
+评论数：0
+发布工具：微博 weibo.com
+
+《How Much Can We See? A Note on Quantifying Explainability of Machine Learning Models》G Szepannek [Stralsund University of Applied Sciences] (2019) http://t.cn/Ai13EYUr view:http://t.cn/Ai13EYUd  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:53
+点赞数：6
+转发数：16
+评论数：0
+发布工具：微博 weibo.com
+
+《Minimal Variance Sampling in Stochastic Gradient Boosting》B Ibragimov, G Gusev [Yandex & Sberbank] (2019) http://t.cn/Ai13ExfO view:http://t.cn/Ai13ExfW  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:52
+点赞数：5
+转发数：8
+评论数：0
+发布工具：微博 weibo.com
+
+《A Prior of a Googol Gaussians: a Tensor Ring Induced Prior for Generative Models》M Kuznetsov, D Polykovskiy, D Vetrov, A Zhebrak [Insilico Medicine & National Research University Higher School of Economics] (2019) http://t.cn/Ai13RD0O view:http://t.cn/Ai13RD0Y  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:51
+点赞数：6
+转发数：8
+评论数：1
+发布工具：微博 weibo.com
+
+《Multiplayer AlphaZero》N Petosa, T Balch [Georgia Institute of Technology] (2019) http://t.cn/Ai1382JX view:http://t.cn/Ai1382J6  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:44
+点赞数：15
+转发数：17
+评论数：1
+发布工具：微博 weibo.com
+
+《ETNet: Error Transition Network for Arbitrary Style Transfer》C Song, Z Wu, Y Zhou, M Gong, H Huang [Shenzhen University & University of Guelph] (2019) http://t.cn/Ai13HnqK view:http://t.cn/Ai13HnqN GitHub: http://t.cn/Ai13HnqC  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:39
+点赞数：3
+转发数：14
+评论数：4
+发布工具：微博 weibo.com
+
+《Semantic Object Accuracy for Generative Text-to-Image Synthesis》T Hinz, S Heinrich, S Wermter [Universitat Hamburg] (2019) http://t.cn/Ai13TWuw view:http://t.cn/Ai13TWuy GitHub: http://t.cn/Ai13TWuz  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:34
+点赞数：3
+转发数：14
+评论数：4
+发布工具：微博 weibo.com
+
+《Sinkhorn Divergences for Unbalanced Optimal Transport》T Séjourné, J Feydy, F Vialard, A Trouvé, G Peyré [ENS & Universite Paris-Est Marne-la-Vall] (2019) http://t.cn/Ai13YQsY view:http://t.cn/Ai13YQsO  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:31
+点赞数：0
+转发数：7
+评论数：0
+发布工具：微博 weibo.com
+
+《Dynamics Learning with Cascaded Variational Inference for Multi-Step Manipulation》K Fang, Y Zhu, A Garg, S Savarese, L Fei-Fei [Stanford University & Nvidia] (2019) http://t.cn/Ai13je2O view:http://t.cn/Ai13je2Y Home:http://t.cn/Ai13je2W  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:28
+点赞数：9
+转发数：14
+评论数：2
+发布工具：微博 weibo.com
+
+《BPE-Dropout: Simple and Effective Subword Regularization》I Provilkov, D Emelianenko, E Voita [Yandex] (2019) http://t.cn/Ai13jP5k view:http://t.cn/Ai13jP5m  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:24
+点赞数：5
+转发数：4
+评论数：1
+发布工具：微博 weibo.com
+
+*《Learning to Predict Without Looking Ahead: World Models Without Forward Prediction》C. D Freeman, L Metz, D Ha [Google Brain] (2019) http://t.cn/Ai13OgKu view:http://t.cn/Ai13OgKe Home:http://t.cn/Ai13OgKm  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-31 05:16
+点赞数：4
+转发数：27
+评论数：0
+发布工具：微博 weibo.com
+
+《今日学术视野(2019.10.31) 》 http://t.cn/Ai1303Hj  
+微博位置：无
+发布时间：2019-10-31 05:12
+点赞数：0
+转发数：0
+评论数：0
+发布工具：Mac客户端
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-31 05:10
+点赞数：30
+转发数：5
+评论数：2
+发布工具：Mac客户端
+
+晚安~   爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-30 22:04
+点赞数：18
+转发数：2
+评论数：2
+发布工具：微博视频
+
+《爱可可老师24小时热门分享(2019.10.30)》  爱可可老师24小时热门分享(2019.10.30)  
+微博位置：无
+发布时间：2019-10-30 22:03
+点赞数：11
+转发数：3
+评论数：0
+发布工具：微博 weibo.com
+
+很有感觉的未来派#AR# via:Edward Miller  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-30 21:49
+点赞数：26
+转发数：8
+评论数：1
+发布工具：微博视频
+
+IE6 + VR  src:http://t.cn/Ai1mSnBJ  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-30 21:26
+点赞数：29
+转发数：9
+评论数：4
+发布工具：微博视频
+
+直观理解逻辑门  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-30 21:06
+点赞数：44
+转发数：29
+评论数：11
+发布工具：微博视频
+
+【pycls：灵活的(PyTorch)图像分类研究框架】'pycls - Codebase for Image Classification Research, written in PyTorch.' by Facebook Research GitHub: http://t.cn/Ai1t6Bmj  原图 
+微博位置：无
+发布时间：2019-10-30 20:50
+点赞数：16
+转发数：39
+评论数：8
+发布工具：Mac客户端
+
+【TensorMask：一种新的密集滑动窗口实例分割技术】《A new dense, sliding-window technique for instance segmentation | Facebook》  http://t.cn/Ai1Eg84A paper:《TensorMask: A Foundation for Dense Object Segmentation》http://t.cn/Ai1mGgCW  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-30 20:47
+点赞数：26
+转发数：47
+评论数：10
+发布工具：Mac客户端
+
+【网络搜索原理 第七讲：自定义查询解析器】今天跟大家分享了如何对抗焦虑和拖延、怎么做作业能拿高分，重申了课程的目标：一点算法、若干心法、几点经验，希望能让大家能悟到一点受用终生的思想火花，一起努力~ 加油 ⛽️ ~ 北邮《网络搜索原理》课程 by 陈光 GitHub:http://t.cn/Ai3doZGu  原图 
+微博位置：无
+发布时间：2019-10-30 20:42
+点赞数：47
+转发数：33
+评论数：7
+发布工具：Mac客户端
+
+【Pandas 新版开发文档】《Time series / date functionality — pandas 0.26.0.dev documentation》 http://t.cn/Ai1m7IPf old:http://t.cn/Ai1m7IPI  原图 
+微博位置：无
+发布时间：2019-10-30 20:17
+点赞数：43
+转发数：53
+评论数：17
+发布工具：Mac客户端
+
+【(Facebook)推动3D内容理解新发展】《Pushing state-of-the-art in 3D content understanding》 http://t.cn/Ai1mP3BJ  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-30 20:13
+点赞数：33
+转发数：34
+评论数：5
+发布工具：微博 weibo.com
+
+  原图 
+微博位置：无
+发布时间：2019-10-30 20:06
+点赞数：32
+转发数：20
+评论数：11
+发布工具：Mac客户端
+
+越来越多的人意识到：SOTA 是种瘾，得戒。  
+微博位置：无
+发布时间：2019-10-30 18:30
+点赞数：47
+转发数：8
+评论数：2
+发布工具：微博 weibo.com
+
+【深度解读 OpenAI 机器手玩魔方】《Let's Discuss OpenAI's Rubik's Cube Result》by Alex Irpan http://t.cn/Ai1nVmxD  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-30 18:10
+点赞数：13
+转发数：19
+评论数：3
+发布工具：Mac客户端
+
+【OpenARK：UC Berkeley 开源可穿戴增强现实系统(C++)】’OpenARK - OpenARK is an open-source wearable augmented reality (AR) system founded at UC Berkeley in 2016. The C++ based software offers innovative core functionalities to power a wide range of off-the-shelf AR components, including see-through glasses, depth cameras, and IMUs.' by augcog GitHub: http://t.cn/Ai1RkJgT 原图 
+微博位置：无
+发布时间：2019-10-30 14:06
+点赞数：32
+转发数：59
+评论数：14
+发布工具：Mac客户端
+
+'《利用Python进行数据分析·第2版》' by iamseancheney http://t.cn/Rn9Ojao GitHub: http://t.cn/RDOB8a9  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-30 13:51
+点赞数：60
+转发数：110
+评论数：37
+发布工具：Mac客户端
+
+【文档图像校正与光照校正】'DocProj - Document Rectification and Illumination Correction using a Patch-based CNN' by xiaoyu258 GitHub: http://t.cn/Ai1R1ix7 paper:《Document Rectification and Illumination Correction using a Patch-based CNN》(SIGGRAPH Asia 2019) http://t.cn/Ai1R1ixP  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-30 13:46
+点赞数：39
+转发数：58
+评论数：17
+发布工具：Mac客户端
+
+【嵌入式AI(边缘AI)相关资源列表】’AI at the edge - A curated list of resources for embedded AI' by Xabi Crespo GitHub: http://t.cn/Ai1RT8hA  原图 
+微博位置：无
+发布时间：2019-10-30 13:18
+点赞数：23
+转发数：40
+评论数：12
+发布工具：Mac客户端
+
+'The Uber Go Style Guide . Uber Go 语言编码规范中文版' by xxj GitHub: http://t.cn/Ai39zr02  原图 
+微博位置：无
+发布时间：2019-10-30 13:17
+点赞数：17
+转发数：30
+评论数：1
+发布工具：Mac客户端
+
+'Keras inference time optimizer (KITO) - Optimize layers structure of Keras model to reduce computation time' by ZFTurbo GitHub: http://t.cn/Ai1RYftl  原图 
+微博位置：无
+发布时间：2019-10-30 13:14
+点赞数：9
+转发数：10
+评论数：1
+发布工具：Mac客户端
+
+【OpenCV/scikit-image 实现的(文档图像)手写签名提取】’”Signature Extraction" based connected component analysis - A super lightweight image procesing algorithm for extraction of overlapped handwritten signatures on scanned documents using OpenCV and scikit-image.' by Ozlu GitHub: http://t.cn/Ai1RjUXD [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-30 13:11
+点赞数：25
+转发数：47
+评论数：7
+发布工具：Mac客户端
+
+【BERT 中文句子相似度计算】’How to use - bert chinese similarity' by Cally GitHub: http://t.cn/Ai1RSp04  原图 
+微博位置：无
+发布时间：2019-10-30 12:42
+点赞数：55
+转发数：99
+评论数：34
+发布工具：Mac客户端
+
+【Rust写的简单进程浏览器】’bb - simple process viewer in rust http://t.cn/Ai1RXKcQ by Manos Pitsidianakis GitHub: http://t.cn/Ai1RXKcT  原图 
+微博位置：无
+发布时间：2019-10-30 12:37
+点赞数：9
+转发数：17
+评论数：6
+发布工具：Mac客户端
+
+【通过同义词替换实现文本“变脸”😝】’SirajNet - Using deep complicated NLP to turn your text into my text by arbitrarily swapping words for their synonyms' by Paul Bricman GitHub: http://t.cn/Ai1RxZCD  原图 
+微博位置：无
+发布时间：2019-10-30 12:25
+点赞数：16
+转发数：32
+评论数：6
+发布工具：Mac客户端
+
+《The spectral dimension of simplicial complexes: a renormalization group theory》G Bianconi, S N. Dorogovtsev [Alan Turing Institute & Campus Universitario de Santiago] (2019) http://t.cn/Ai1Q5ZhA view:http://t.cn/Ai1Q5Zhw  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:37
+点赞数：2
+转发数：5
+评论数：0
+发布工具：微博 weibo.com
+
+《A Survey on Knowledge Graph Embeddings with Literals: Which model links better Literal-ly?》G A Gesese, R Biswas, M Alam, H Sack [Karlsruhe Institute of Technology] (2019) http://t.cn/Ai1Qqjc2 view:http://t.cn/Ai1Qqjcb  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:35
+点赞数：16
+转发数：34
+评论数：3
+发布工具：微博 weibo.com
+
+《Transferring neural speech waveform synthesizers to musical instrument sounds generation》Y Zhao, X Wang, L Juvela, J Yamagishi [National Institute of Informatics, Tokyo & Aalto University] (2019) http://t.cn/Ai1Qqt8c view:http://t.cn/Ai1Qqt8V  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:34
+点赞数：1
+转发数：8
+评论数：1
+发布工具：微博 weibo.com
+
+《Structured Low-Rank Algorithms: Theory, MR Applications, and Links to Machine Learning》M Jacob, M P. Mani, J C Ye [University of Iowa & KAIST] (2019) http://t.cn/Ai1Qqv7p view:http://t.cn/Ai1Qqv70  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:32
+点赞数：16
+转发数：39
+评论数：6
+发布工具：微博 weibo.com
+
+《HUBERT Untangles BERT to Improve Transfer across NLP Tasks》M Moradshahi, H Palangi, M S. Lam, P Smolensky, J Gao [Stanford University & Microsoft Research] (2019) http://t.cn/Ai1QbQyu view:http://t.cn/Ai1QbQym  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:26
+点赞数：8
+转发数：19
+评论数：3
+发布工具：微博 weibo.com
+
+《KETO: Learning Keypoint Representations for Tool Manipulation》Z Qin, K Fang, Y Zhu, L Fei-Fei, S Savarese [Stanford University] (2019) http://t.cn/Ai1QbiCG view:http://t.cn/Ai1QbiCU  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:25
+点赞数：5
+转发数：6
+评论数：2
+发布工具：微博 weibo.com
+
+《From complex to simple : hierarchical free-energy landscape renormalized in deep neural networks》H Yoshino [Osaka University] (2019) http://t.cn/Ai1Q4s7M view:http://t.cn/Ai1Q4s7f  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:23
+点赞数：2
+转发数：5
+评论数：0
+发布工具：微博 weibo.com
+
+《Landmark Ordinal Embedding》N Ghosh, Y Chen, Y Yue [UC Berkeley & UChicago & Caltech] (2019) http://t.cn/Ai1QUIkm view:http://t.cn/Ai1QUIkR  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:14
+点赞数：10
+转发数：14
+评论数：1
+发布工具：微博 weibo.com
+
+《Evaluating the Factual Consistency of Abstractive Text Summarization》W Kryściński, B McCann, C Xiong, R Socher [Salesforce Research] (2019) http://t.cn/Ai1Qyg5m view:http://t.cn/Ai1Qyg5n  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:12
+点赞数：3
+转发数：5
+评论数：1
+发布工具：微博 weibo.com
+
+《Consistency Regularization for Generative Adversarial Networks》H Zhang, Z Zhang, A Odena, H Lee [Google AI] (2019) http://t.cn/Ai1QypWQ view:http://t.cn/Ai1QypW8  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:10
+点赞数：11
+转发数：29
+评论数：4
+发布工具：微博 weibo.com
+
+《Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning》A Gupta, V Kumar, C Lynch, S Levine, K Hausman [Berkeley AI Research & Google] (2019) http://t.cn/Ai1QLsIa view:http://t.cn/Ai1QLsI9 Home:http://t.cn/Ai1QLsIX  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:07
+点赞数：4
+转发数：8
+评论数：1
+发布工具：微博 weibo.com
+
+*《Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes》G Yang [Microsoft Research AI] (2019) http://t.cn/Ai1QLxr5 view:http://t.cn/Ai1QLxrt  [组图共5张] 原图 
+微博位置：无
+发布时间：2019-10-30 05:03
+点赞数：6
+转发数：5
+评论数：1
+发布工具：微博 weibo.com
+
+《今日学术视野(2019.10.30)》 http://t.cn/Ai1QANGC  
+微博位置：无
+发布时间：2019-10-30 04:54
+点赞数：1
+转发数：0
+评论数：1
+发布工具：Mac客户端
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-30 04:51
+点赞数：14
+转发数：2
+评论数：5
+发布工具：Mac客户端
+
+晚安~   爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-29 21:30
+点赞数：48
+转发数：15
+评论数：9
+发布工具：微博视频
+
+《爱可可老师24小时热门分享(2019.10.29)》  爱可可老师24小时热门分享(2019.10.29)  
+微博位置：无
+发布时间：2019-10-29 21:29
+点赞数：7
+转发数：5
+评论数：0
+发布工具：微博 weibo.com
+
+直到你清楚什么时候不该用一样工具，你才算真正掌握了它。- Kelsey Hightower  
+微博位置：无
+发布时间：2019-10-29 19:59
+点赞数：49
+转发数：11
+评论数：4
+发布工具：Mac客户端
+
+论文应该怎么读   爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-29 14:24
+点赞数：69
+转发数：19
+评论数：12
+发布工具：微博视频
+
+博士生，开发新算法：3万美元/年；数据科学家，用Scikit-Learn 内置模型:12万美元/年；对冲基金分析师，用 Excel 做回归模型：20万美元/年；CEO，画饼图：1400万美元/年。进一步说，一个复杂算法，如果人们根本无法理解和信任，就算不上是更好的算法。能帮人们做出更好决策的模型，往往是最最简单的。via:Will Koehrsen 
+微博位置：无
+发布时间：2019-10-29 14:19
+点赞数：206
+转发数：118
+评论数：30
+发布工具：Mac客户端
+
+'EagerPy - a thin wrapper around PyTorch and TensorFlow Eager that unifies their interface and thus allows writing code that works with both.' by Jonas Rauber GitHub: http://t.cn/Ai1ljqzD  原图 
+微博位置：无
+发布时间：2019-10-29 13:53
+点赞数：9
+转发数：8
+评论数：2
+发布工具：Mac客户端
+
+’Pytorch implementation of the chamfer distance' by ThibaultGROUEIX GitHub: http://t.cn/Ai1lldVX  原图 
+微博位置：无
+发布时间：2019-10-29 13:52
+点赞数：7
+转发数：5
+评论数：1
+发布工具：Mac客户端
+
+【图分类基准图数据集列表】’A Repository of Benchmark Graph Datasets for Graph Classification (31 Graph Datasets In Total).' by shiruipan GitHub: http://t.cn/ReKMi5b  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-29 13:47
+点赞数：20
+转发数：27
+评论数：4
+发布工具：Mac客户端
+
+【kornia：(PyTorch)开源可微计算机视觉库】’kornia - Open Source Differentiable Computer Vision Library for PyTorch' by kornia http://t.cn/Ai1lOoOP GitHub: http://t.cn/Ai1lOoOz paper:《Kornia: an Open Source Differentiable Computer Vision Library for PyTorch》(2019) http://t.cn/AiuMaH3v 原图 
+微博位置：无
+发布时间：2019-10-29 13:45
+点赞数：18
+转发数：47
+评论数：4
+发布工具：Mac客户端
+
+【ggplot2 科技期刊配色集锦】’ggsci - Scientific journal and sci-fi themed color palettes for ggplot2' by Nan Xiao GitHub: http://t.cn/Ai1lSY1g  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-29 13:21
+点赞数：40
+转发数：70
+评论数：11
+发布工具：Mac客户端
+
+’LaMa - A Localization and Mapping library' by Intelligent Robotics and Systems (IRIS) Lab GitHub: http://t.cn/Ai1laDrh  原图 
+微博位置：无
+发布时间：2019-10-29 13:19
+点赞数：7
+转发数：14
+评论数：5
+发布工具：Mac客户端
+
+’Konduit: Enterprise Runtime for Machine Learning Models' by Konduit AI GitHub: http://t.cn/Ai1laLcY  原图 
+微博位置：无
+发布时间：2019-10-29 13:17
+点赞数：5
+转发数：7
+评论数：0
+发布工具：Mac客户端
+
+'PyDMD - a Python package that uses Dynamic Mode Decomposition for a data-driven model simplification based on spatiotemporal coherent structures' by SISSA mathLab GitHub: http://t.cn/Ai1liYzL  原图 
+微博位置：无
+发布时间：2019-10-29 13:09
+点赞数：5
+转发数：9
+评论数：0
+发布工具：Mac客户端
+
+【基于 CycleGAN 的人脸“小丑化”🤡】’Jokeriser with CycleGAN - Why so serious?' by junkwhinger GitHub: http://t.cn/Ai1lixZt  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-29 13:08
+点赞数：27
+转发数：25
+评论数：7
+发布工具：Mac客户端
+
+【pyexcel：csv, ods, xls, xlsx and xlsm 格式数据文件的统一读/写/处置 API】’pyexcel - Let you focus on data, instead of file formats - Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files' GitHub: http://t.cn/Ai1lJ8mh  原图 
+微博位置：无
+发布时间：2019-10-29 13:06
+点赞数：44
+转发数：86
+评论数：17
+发布工具：Mac客户端
+
+【生物信息学常用“单行”命令行技巧集锦】’bioinformatics-one-liners - Bioinformatics one liners' by Ming Tang GitHub: http://t.cn/Ai1lJUol  原图 
+微博位置：无
+发布时间：2019-10-29 13:04
+点赞数：6
+转发数：10
+评论数：2
+发布工具：Mac客户端
+
+'基于Kaldi的aidatatang_200zh的训练之葵花宝典' GitHub: http://t.cn/Ai1ltzMl  原图 
+微博位置：无
+发布时间：2019-10-29 12:45
+点赞数：19
+转发数：24
+评论数：3
+发布工具：Mac客户端
+
+'Torch3d - Datasets, networks and transformations for 3D deep learning in PyTorch' by Quang-Hieu Pham GitHub: http://t.cn/Ai1lq6tj  原图 
+微博位置：无
+发布时间：2019-10-29 12:40
+点赞数：9
+转发数：19
+评论数：2
+发布工具：Mac客户端
+
+【SLAM相关资源大列表】’Awesome-SLAM - A curated list of SLAM resources' by Youjie Xia GitHub: http://t.cn/RrnF9oN  原图 
+微博位置：无
+发布时间：2019-10-29 12:32
+点赞数：37
+转发数：59
+评论数：11
+发布工具：Mac客户端
+
+【Voilà：将 Jupyter notebooks 变成独立的网页应用，自带多种交互式widgets】’Voilà - turns Jupyter notebooks into standalone web applications' GitHub: http://t.cn/Ai1lUbj7  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-29 12:28
+点赞数：20
+转发数：23
+评论数：8
+发布工具：Mac客户端
+
+神经联觉：GANs音乐可视化 via:Xander Steenbrugge  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-29 08:52
+点赞数：54
+转发数：46
+评论数：6
+发布工具：微博视频
+
+机器视觉研究未来5年的五大挑战(ICCV 2019) by Jitendra Malik  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-29 08:48
+点赞数：67
+转发数：63
+评论数：12
+发布工具：Mac客户端
+
+【生成模型与数据可视化】《Generative models as data visualization》by Phillip Isola [MIT] http://t.cn/Ai1O1oTc  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-29 08:46
+点赞数：21
+转发数：40
+评论数：9
+发布工具：Mac客户端
+
+【用TensorFlow 2.0创建Keras模型的3种方法(Sequential, Functional, and Model Subclassing)】《3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing) | PyImageSearch》by Adrian Rosebrock http://t.cn/Ai1O3I2e  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-29 08:42
+点赞数：20
+转发数：54
+评论数：16
+发布工具：Mac客户端
+
+【可微凸优化层】《Differentiable Convex Optimization Layers》http://t.cn/Ai1OuWCk paper:《Differentiable Convex Optimization Layers》[Stanford University & Facebook AI & CMU] (2019) http://t.cn/Ai1OuWCD  GitHub:http://t.cn/Ai1OuWC1  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-29 08:40
+点赞数：27
+转发数：35
+评论数：3
+发布工具：Mac客户端
+
+【Kaggle 参赛一年成长记】《Year-long path | Kaggle》by Konstantin Yakovlev http://t.cn/Ai1On7rS  原图 
+微博位置：无
+发布时间：2019-10-29 08:33
+点赞数：35
+转发数：49
+评论数：9
+发布工具：Mac客户端
+
+【PyTorch 生态圈工具列表】“Ecosystem Tools | PyTorch”  http://t.cn/EMaQpBB  原图 
+微博位置：无
+发布时间：2019-10-29 08:21
+点赞数：24
+转发数：51
+评论数：8
+发布工具：Mac客户端
+
+GitHub 刚刚完善了对Jupyter Notebooks的支持，我的课件终于得救了 👏😄  原图 
+微博位置：无
+发布时间：2019-10-29 08:13
+点赞数：126
+转发数：23
+评论数：13
+发布工具：Mac客户端
+
+François Chollet：“人工智能”是个非常大胆的标签。事实上，我还没见到过某项技术——从没见过——具有哪怕那么一点点智能的特性。  
+微博位置：无
+发布时间：2019-10-29 08:11
+点赞数：43
+转发数：10
+评论数：8
+发布工具：Mac客户端
+
+《Apply and Lambda usage in pandas》by Rahul Agarwal http://t.cn/Ai1OlsRo  原图 
+微博位置：无
+发布时间：2019-10-29 08:07
+点赞数：13
+转发数：16
+评论数：8
+发布工具：微博 weibo.com
+
+【关于自然语言处理你需要了解的4个技巧——来自Twitter数据科学家】《4 Tips You Need To Know on NLP — from a Twitter Data Scientist》by Haebichan Jung http://t.cn/Ai1O5B5v  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-29 06:46
+点赞数：35
+转发数：40
+评论数：11
+发布工具：Mac客户端
+
+【不到50行Python代码构建文本生成器网页应用】《Build a Text Generator Web App in under 50 Lines of Python》by Dev Sharma http://t.cn/Ai1O54tQ GitHub:http://t.cn/Ai1O54t8  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-29 06:44
+点赞数：43
+转发数：56
+评论数：12
+发布工具：微博 weibo.com
+
+【当数据科学团队无法创造价值：领导数据团队的重要一课】《When our Data Science Team Didn’t Produce Value》by Joel Nantais http://t.cn/Ai1JLLRv  原图 
+微博位置：无
+发布时间：2019-10-29 06:07
+点赞数：27
+转发数：70
+评论数：10
+发布工具：微博 weibo.com
+
+【类激活图：神经网络决策的可视化】《Class activation maps: Visualizing neural network decision-making》by Anil Chandra Naidu Matcha http://t.cn/Ai1Owx4k  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-29 06:01
+点赞数：23
+转发数：59
+评论数：11
+发布工具：微博 weibo.com
+
+【Facebook 开源 SlowFast：双帧率分析视频识别】《Open-sourcing SlowFast, our competition-leading video recognition through dual frame-rate analysis》 http://t.cn/Ai1OPFAr paper:《SlowFast networks for video recognition》http://weibo.com/1402400261/H6PjTyf88 GitHub:http://t.cn/Ai1ix2eT 原图 
+微博位置：无
+发布时间：2019-10-29 05:42
+点赞数：15
+转发数：37
+评论数：5
+发布工具：Mac客户端
+
+《Multi-scale Deep Neural Networks for Solving High Dimensional PDEs》W Cai, Z J Xu [Southern Methodist University & Shanghai Jiao Tong University] (2019) http://t.cn/Ai10sixI view:http://t.cn/Ai10sixV  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-29 05:30
+点赞数：8
+转发数：12
+评论数：0
+发布工具：微博 weibo.com
+
+《Causal inference for climate change events from satellite image time series using computer vision and deep learning》V Ramachandra [UC Berkeley] (2019) http://t.cn/Ai10FVgi view:http://t.cn/Ai10FVgK  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-29 05:26
+点赞数：8
+转发数：19
+评论数：4
+发布工具：微博 weibo.com
+
+《Multimodal Image Outpainting With Regularized Normalized Diversification》L Zhang, J Wang, J Shi [University of Pennsylvania] (2019) http://t.cn/Ai10ktVT view:http://t.cn/Ai10ktVY GitHub: http://t.cn/Ai10ktVl  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-29 05:21
+点赞数：6
+转发数：10
+评论数：5
+发布工具：微博 weibo.com
+
+《Capacity, Bandwidth, and Compositionality in Emergent Language Learning》C Resnick, A Gupta, J Foerster, A M. Dai, K Cho [NYU & MILA & FAIR & Google Brain] (2019) http://t.cn/Ai10DUFM view:http://t.cn/Ai10DUFV  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-29 05:16
+点赞数：3
+转发数：6
+评论数：1
+发布工具：微博 weibo.com
+
+《Seeing What a GAN Cannot Generate》D Bau, J Zhu, J Wulff, W Peebles, H Strobelt, B Zhou, A Torralba [MIT CSAIL & MIT-IBM Watson AI Lab & The Chinese University of Hong Kong] (2019) http://t.cn/Ai10eHBa view:http://t.cn/Ai10eHB9  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-29 05:13
+点赞数：12
+转发数：25
+评论数：6
+发布工具：微博 weibo.com
+
+*《On the Cross-lingual Transferability of Monolingual Representations》M Artetxe, S Ruder, D Yogatama [University of the Basque & DeepMind] (2019) http://t.cn/Ai10g2ws view:http://t.cn/Ai10g2AP  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-29 05:05
+点赞数：1
+转发数：5
+评论数：3
+发布工具：微博 weibo.com
+
+今日学术视野(2019.10.29) http://t.cn/Ai10dO0q  
+微博位置：无
+发布时间：2019-10-29 05:02
+点赞数：2
+转发数：0
+评论数：0
+发布工具：Mac客户端
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-29 04:54
+点赞数：24
+转发数：16
+评论数：4
+发布工具：Mac客户端
+
+晚安~  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-28 21:40
+点赞数：25
+转发数：6
+评论数：3
+发布工具：微博视频
+
+《爱可可老师24小时热门分享(2019.10.28)》  爱可可老师24小时热门分享(2019.10.28)  
+微博位置：无
+发布时间：2019-10-28 21:37
+点赞数：6
+转发数：6
+评论数：1
+发布工具：微博 weibo.com
+
+蛮有意思的“鱼眼球” 🤩  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-28 13:45
+点赞数：26
+转发数：8
+评论数：4
+发布工具：微博视频
+
+【AlphaPose 的高性能 PyTorch 实现】'Amanbhandula - AlphaPose Implementation in Pytorch along with the pre-trained wights' by Aman Bhandula GitHub: http://t.cn/Ai194UnR  原图 
+微博位置：无
+发布时间：2019-10-28 13:19
+点赞数：41
+转发数：49
+评论数：16
+发布工具：微博 weibo.com
+
+【整体3D重建论文/资源列表】'Holistic 3D Reconstruction - A list of papers and resources for holistic 3D reconstruction' by holistic-3d GitHub: http://t.cn/Ai19y4m6  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 13:14
+点赞数：33
+转发数：69
+评论数：9
+发布工具：Mac客户端
+
+'中国法研杯司法人工智能挑战赛之相似案例匹配第一名解决方案' by Guido Paul GitHub: http://t.cn/Ai19L2WB  
+微博位置：无
+发布时间：2019-10-28 13:12
+点赞数：48
+转发数：99
+评论数：21
+发布工具：Mac客户端
+
+【Leetcode 的 Python 参考方案/解析】’ Leetcode Python Solution and Explanation. Also a Guide to Prepare for Software Engineer Interview.' by wuduhren GitHub: http://t.cn/Ai19z6n0  原图 
+微博位置：无
+发布时间：2019-10-28 13:00
+点赞数：46
+转发数：79
+评论数：32
+发布工具：Mac客户端
+
+【图像处理入门100题实例解析中文版】’「画像処理100本ノック」中文版本！为图像处理初学者设计的 100 个问题。' by gzr2017 GitHub: http://t.cn/Ai19v6w7 日文版：http://t.cn/Ai19v6wv  原图 
+微博位置：无
+发布时间：2019-10-28 12:50
+点赞数：62
+转发数：108
+评论数：32
+发布工具：Mac客户端
+
+【ColorPalette：图片“主色”提取】’ColorPalette - Find the dominant colors in any image' by Colin Page GitHub: http://t.cn/Ai1KB8sK  原图 
+微博位置：无
+发布时间：2019-10-28 12:29
+点赞数：28
+转发数：27
+评论数：9
+发布工具：Mac客户端
+
+【see：R语言可视化工具箱，提供漂亮的、出版级的图形】’see - Visualisation toolbox for beautiful and publication-ready figures' by easystats GitHub: http://t.cn/Ai1KBvfw  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-28 12:27
+点赞数：34
+转发数：51
+评论数：6
+发布工具：Mac客户端
+
+'Toolkit for ApolloScape Dataset - Api for visualize sample data, evaluation of different tasks' by ApolloScapeAuto GitHub: http://t.cn/Ai1K3Q6L  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-28 12:24
+点赞数：21
+转发数：32
+评论数：3
+发布工具：微博 weibo.com
+
+'CV 每日论文阅读笔记（日更）' by ming71 GitHub: http://t.cn/Ai1KnRkb  原图 
+微博位置：无
+发布时间：2019-10-28 12:17
+点赞数：34
+转发数：38
+评论数：7
+发布工具：Mac客户端
+
+【PGM-index：分段几何模型索引，一种数据结构，能用比传统索引少几个数量级的空间在数十亿元素的数组中进行快速的数据点/范围搜索】’Piecewise Geometric Model index (PGM-index) - a data structure that enables fast point and range searches in arrays of billions of items using orders of magnitude less space than traditional indexes' by gvinciguerra http://t.cn/Ai1KEKrd GitHub: http://t.cn/Ai1KEKdP paper:《The PGM-index: a multicriteria, compressed and learned approach to data indexing》http://t.cn/Ai1KEKd7 [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-28 12:13
+点赞数：19
+转发数：45
+评论数：5
+发布工具：Mac客户端
+
+【神经网络的泛化】《Generalization in Neural Networks》by Harsha Bommana http://t.cn/Ai1o5OqP  原图 
+微博位置：无
+发布时间：2019-10-28 08:11
+点赞数：27
+转发数：36
+评论数：4
+发布工具：Mac客户端
+
+【理解朴素贝叶斯分类器】《Understanding The Naive Bayes Classifier》by Tony Yiu http://t.cn/Ai1S1osg  原图 
+微博位置：无
+发布时间：2019-10-28 06:46
+点赞数：44
+转发数：71
+评论数：15
+发布工具：Mac客户端
+
+【最容易被低估的Python标准库：NamedTuple、Counter、DefaultDict】《The Most Undervalued Standard Python Library》by Tyler Folkman http://t.cn/Ai1S1vy0  原图 
+微博位置：无
+发布时间：2019-10-28 06:44
+点赞数：39
+转发数：48
+评论数：15
+发布工具：Mac客户端
+
+《H-VECTORS: Utterance-level Speaker Embedding Using A Hierarchical Attention Model》Y Shi, Q Huang, T Hain [University of Sheffield] (2019) http://t.cn/Ai1SWXxg view:http://t.cn/Ai1SWXxd  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:50
+点赞数：7
+转发数：21
+评论数：2
+发布工具：微博 weibo.com
+
+《Scheduling the Learning Rate via Hypergradients: New Insights and a New Algorithm》M Donini, L Franceschi, M Pontil, O Majumder, P Frasconi [Amazon & University College London & Università di Firenze] (2019) http://t.cn/Ai1SOg2j view:http://t.cn/Ai1SOg2Y GitHub:http://t.cn/Ai1SOg2T [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:48
+点赞数：4
+转发数：9
+评论数：1
+发布工具：微博 weibo.com
+
+《Neural Ordinary Differential Equations for Semantic Segmentation of Individual Colon Glands》H Pinckaers, G Litjens [Radboud University Medical Center] (2019) http://t.cn/Ai1Spknd view:http://t.cn/Ai1SpknD GitHub:http://t.cn/Ai1Spkng  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:40
+点赞数：7
+转发数：16
+评论数：1
+发布工具：微博 weibo.com
+
+《Adaptive gradient descent without descent》Y Malitsky, K Mishchenko [EPFL & KAUST] (2019) http://t.cn/Ai1SN6e4 view:http://t.cn/Ai1SN6ew GitHub: http://t.cn/Ai1SN6gs  [组图共7张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:34
+点赞数：6
+转发数：20
+评论数：4
+发布工具：微博 weibo.com
+
+《How robots in a large group make decisions as a whole? From biological inspiration to the design of distributed algorithms》G Valentini [Arizona State University] (2019) http://t.cn/Ai1SCWHT view:http://t.cn/Ai1SCWHH  [组图共7张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:30
+点赞数：7
+转发数：11
+评论数：0
+发布工具：微博 weibo.com
+
+《Unsupervised Context Rewriting for Open Domain Conversation》K Zhou, K Zhang, Y Wu, S Liu, J Yu [Peking University & AI and Research Microsoft] (2019) http://t.cn/Ai1SC7NN view:http://t.cn/Ai1SC7N9  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:28
+点赞数：9
+转发数：12
+评论数：1
+发布工具：微博 weibo.com
+
+《First-Order Preconditioning via Hypergradient Descent》T Moskovitz, R Wang, J Lan, S Kapoor, T Miconi, J Yosinski, A Rawal [Uber AI] (2019) http://t.cn/Ai1S9HPU view:http://t.cn/Ai1S9HP4  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:27
+点赞数：8
+转发数：4
+评论数：0
+发布工具：微博 weibo.com
+
+《Representation Learning for Discovering Phonemic Tone Contours》B Li, J Y Xie, F Rudzicz [University of Toronto] (2019) http://t.cn/Ai1S9t4V view:http://t.cn/Ai1S9t4f  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:25
+点赞数：1
+转发数：3
+评论数：3
+发布工具：微博 weibo.com
+
+《Solving Rubik's Cube with a Robot Hand》OpenAI, I Akkaya, M Andrychowicz... [OpenAI] (2019) http://t.cn/Ai1SKD3b view:http://t.cn/Ai1SKD34  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:23
+点赞数：4
+转发数：12
+评论数：3
+发布工具：微博 weibo.com
+
+《Root Mean Square Layer Normalization》B Zhang, R Sennrich [University of Edinburgh & University of Zurich] (2019) http://t.cn/Ai1SoR1L view:http://t.cn/Ai1SoR1w GitHub: http://t.cn/Ai3XDlsT  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:18
+点赞数：5
+转发数：12
+评论数：4
+发布工具：微博 weibo.com
+
+《Making Bayesian Predictive Models Interpretable: A Decision Theoretic Approach》H Afrabandpey, T Peltola, J Piironen, A Vehtari, S Kaski [Aalto University & Curious AI] (2019) http://t.cn/Ai1SoGcH view:http://t.cn/Ai1SoGcY  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:16
+点赞数：12
+转发数：16
+评论数：0
+发布工具：微博 weibo.com
+
+*《Scale-Equivariant Steerable Networks》I Sosnovik, M Szmaja, A Smeulders [University of Amsterdam] (2019) http://t.cn/Ai1SSxw6 view:http://t.cn/Ai1SSxwS  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:12
+点赞数：8
+转发数：3
+评论数：1
+发布工具：微博 weibo.com
+
+*《Weakly Supervised Disentanglement with Guarantees》R Shu, Y Chen, A Kumar, S Ermon, B Poole [Stanford University & Google Brain] (2019) http://t.cn/Ai1SanJs view:http://t.cn/Ai1SaniP GitHub:http://t.cn/Ai1Sani7  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-28 05:10
+点赞数：11
+转发数：21
+评论数：1
+发布工具：微博 weibo.com
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-28 05:05
+点赞数：27
+转发数：5
+评论数：4
+发布工具：Mac客户端
+
+晚安~  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-27 21:35
+点赞数：8
+转发数：3
+评论数：3
+发布工具：微博视频
+
+《爱可可老师24小时热门分享(2019.10.27)》  爱可可老师24小时热门分享(2019.10.27)  
+微博位置：无
+发布时间：2019-10-27 21:34
+点赞数：8
+转发数：3
+评论数：0
+发布工具：微博 weibo.com
+
+深入浅出排序算法 😊  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-27 18:50
+点赞数：176
+转发数：71
+评论数：15
+发布工具：微博视频
+
+《本周论文关注榜(2019.10.27)》  本周论文关注榜(2019.10.27)  
+微博位置：无
+发布时间：2019-10-27 16:49
+点赞数：9
+转发数：2
+评论数：1
+发布工具：微博 weibo.com
+
+'Sequoia选股系统 - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态' by sngyai GitHub: http://t.cn/Ai1i57eH  原图 
+微博位置：无
+发布时间：2019-10-27 15:33
+点赞数：60
+转发数：85
+评论数：14
+发布工具：Mac客户端
+
+'Swish Activation - PyTorch CUDA Implementation' by thomasbrandon GitHub: http://t.cn/Ai1iqlei  原图 
+微博位置：无
+发布时间：2019-10-27 15:32
+点赞数：12
+转发数：13
+评论数：3
+发布工具：Mac客户端
+
+【骨架动作识别相关资源列表】’Awesome-Skeleton-based-Action-Recognition - Skeleton-based Action Recognition' by niais GitHub: http://t.cn/Ai1iUZst  原图 
+微博位置：无
+发布时间：2019-10-27 15:20
+点赞数：34
+转发数：63
+评论数：11
+发布工具：Mac客户端
+
+"非凡的主张需要非凡的证据。" - Carl Sagan  
+微博位置：无
+发布时间：2019-10-27 10:42
+点赞数：39
+转发数：11
+评论数：0
+发布工具：Mac客户端
+
+你在万圣节扮成一个TCP包……路人：你穿的啥？你：准备好让我告诉你了？路人：好了，说吧你：好，我要说了路人：好你：我是个TCP包路人：……你：我是个TCP包路人：好via:Pranay Pathole  
+微博位置：无
+发布时间：2019-10-27 10:38
+点赞数：163
+转发数：157
+评论数：22
+发布工具：Mac客户端
+
+【科研论文框架】《Course: A Framework for Scientific Papers, Topic: SUMMARY of A Framework For Scientific Papers》 http://t.cn/Ai1xAB6s  原图 
+微博位置：无
+发布时间：2019-10-27 09:59
+点赞数：51
+转发数：67
+评论数：17
+发布工具：Mac客户端
+
+【深入理解 NaNs】《Navigating The Hell of NaNs in Python》by Julia Di Russo http://t.cn/Ai1xhgoK  原图 
+微博位置：无
+发布时间：2019-10-27 09:46
+点赞数：21
+转发数：25
+评论数：4
+发布工具：Mac客户端
+
+《Is ReLU Dead?》by Jithin Jayan http://t.cn/Ai1MFgdZ  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 09:35
+点赞数：43
+转发数：62
+评论数：12
+发布工具：Mac客户端
+
+《Exponentially Growing Learning Rate? Implications of Scale Invariance induced by Batch Normalization》by Ferenc Huszár http://t.cn/Ai1MeaOS paper:《An Exponential Learning Rate Schedule for Deep Learning》http://weibo.com/1402400261/Ic0rwCVQV  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-27 09:26
+点赞数：16
+转发数：7
+评论数：0
+发布工具：Mac客户端
+
+【ICCV 2019 Facebook 成果列汇总】《Facebook research being presented at ICCV》 http://t.cn/Ai1M9v8x  原图 
+微博位置：无
+发布时间：2019-10-27 08:17
+点赞数：17
+转发数：34
+评论数：6
+发布工具：微博 weibo.com
+
+《Newton vs the machine: solving the chaotic three-body problem using deep neural networks》P G. Breen, C N. Foley, T Boekholt, S P Zwart [University of Edinburgh & University of Cambridge & Campus Universitario de Santiago & Leiden University] (2019) http://t.cn/Ai1IQtq7 view:http://t.cn/Ai1MzsBC [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:54
+点赞数：17
+转发数：21
+评论数：1
+发布工具：微博 weibo.com
+
+《RLScheduler: Learn to Schedule HPC Batch Jobs Using Deep Reinforcement Learning》D Zhang, D Dai, Y He, F S Bao [University of North Carolina at Charlotte & Iowa State University] (2019) http://t.cn/Ai1MzNMm view:http://t.cn/Ai1MzNMr  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:53
+点赞数：10
+转发数：6
+评论数：2
+发布工具：微博 weibo.com
+
+《Poisson CNN: Convolutional Neural Networks for the Solution of the Poisson Equation with Varying Meshes and Dirichlet Boundary Conditions》A G Özbay, S Laizet, P Tzirakis, G Rizos, B Schuller [Imperial College London] (2019) http://t.cn/Ai1M7my9 view:http://t.cn/Ai1M7myi GitHub:http://t.cn/Ai1M7myx [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:50
+点赞数：22
+转发数：24
+评论数：1
+发布工具：微博 weibo.com
+
+《Predicting retrosynthetic pathways using a combined linguistic model and hyper-graph exploration strategy》P Schwaller, R Petraglia, V Zullo, V H Nair, R A Haeuselmann, R Pisoni, C Bekas, A Iuliano, T Laino [IBM Research & Universita di Pisa] (2019) http://t.cn/Ai1MPYS1 view:http://t.cn/Ai1MPYSm [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:43
+点赞数：1
+转发数：5
+评论数：1
+发布工具：微博 weibo.com
+
+《Planning, Learning and Reasoning Framework for Robot Truck Unloading》F Islam, A Vemula, S Kim, A Dornbush, O Salzman, M Likhachev [CMU & Technion-Israel Institute of Technology] (2019) http://t.cn/Ai1MPGxE view:http://t.cn/Ai1MPGxu  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:41
+点赞数：5
+转发数：13
+评论数：1
+发布工具：微博 weibo.com
+
+《Neuro-SERKET: Development of Integrative Cognitive System through the Composition of Deep Probabilistic Generative Models》T Taniguchi, T Nakamura, M Suzuki, R Kuniyasu, K Hayashi, A Taniguchi, T Horii, T Nagai [Ritsumeikan University & Osaka University & The University of Electro-Communications & The University of Tokyo] (2019) http://t.cn/Ai1MvN6D view:http://t.cn/Ai1MvN6e [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:39
+点赞数：5
+转发数：1
+评论数：0
+发布工具：微博 weibo.com
+
+《Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic》M Sordello, W Su [University of Pennsylvania] (2019) http://t.cn/Ai1IsJCs view:http://t.cn/Ai1IsJCF  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:35
+点赞数：11
+转发数：6
+评论数：2
+发布工具：微博 weibo.com
+
+《Generative Hierarchical Models for Parts, Objects, and Scenes》F Deng, Z Zhi, S Ahn [Rutgers University & Xi’an Jiaotong University] (2019) http://t.cn/Ai1IFspO view:http://t.cn/Ai1IFspW  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:34
+点赞数：5
+转发数：11
+评论数：0
+发布工具：微博 weibo.com
+
+《Self-Supervised Sim-to-Real Adaptation for Visual Robotic Manipulation》R Jeong, Y Aytar, D Khosid, Y Zhou, J Kay, T Lampe, K Bousmalis, F Nori [DeepMind London] (2019) http://t.cn/Ai1IkZCy view:http://t.cn/Ai1IkZCL  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:27
+点赞数：8
+转发数：14
+评论数：2
+发布工具：微博 weibo.com
+
+《Teacher algorithms for curriculum learning of Deep RL in continuously parameterized environments》R Portelas, C Colas, K Hofmann, P Oudeyer [Inria (FR) & Microsoft Research (UK)] (2019) http://t.cn/Ai1IDOVO view:http://t.cn/Ai1IDOVp GitHub: http://t.cn/Ai1IDOVC  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:25
+点赞数：6
+转发数：8
+评论数：1
+发布工具：微博 weibo.com
+
+《Understanding Deep Networks via Extremal Perturbations and Smooth Masks》R Fong, M Patrick, A Vedaldi [University of Oxford & Facebook AI Research] (2019) http://t.cn/Ai1IeeDX view:http://t.cn/Ai1IeeDf GitHub: http://t.cn/Aiuhu1sK  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:23
+点赞数：11
+转发数：14
+评论数：2
+发布工具：微博 weibo.com
+
+《A deep active learning system for species identification and counting in camera trap images》M S Norouzzadeh, D Morris, S Beery, N Joshi, N Jojic, J Clune [Microsoft AI for Earth & Microsoft Research & University of Wyoming] (2019) http://t.cn/Ai1Igvg5 view:http://t.cn/Ai1Igvgq  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:16
+点赞数：8
+转发数：9
+评论数：1
+发布工具：微博 weibo.com
+
+《Cascaded Generation of High-quality Color Visible Face Images from Thermal Captures》N Damer, F Boutros, K Mallat, F Kirchbuchner, J Dugelay, A Kuijper [TU Darmstadt & EURECOM] (2019) http://t.cn/Ai1IdhK7 view:http://t.cn/Ai1IdhKz  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-27 06:13
+点赞数：4
+转发数：10
+评论数：1
+发布工具：微博 weibo.com
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-27 05:59
+点赞数：63
+转发数：22
+评论数：3
+发布工具：微博 HTML5 版
+
+《爱可可老师24小时热门分享(2019.10.26)》  爱可可老师24小时热门分享(2019.10.26)  
+微博位置：无
+发布时间：2019-10-26 21:53
+点赞数：4
+转发数：3
+评论数：0
+发布工具：微博 weibo.com
+
+___神经元总数____🐘257,000,000,000🧑86,000,000,000🦍33,400,000,000🦒10,750,000,000🐻9,586,000,000🦁4,667,000,000🐶2,253,000,000🐷2,220,000,000🐱760,000,000🦉690,000,000🐙500,000,000🐰494,200,000🐀200,000,000🐁71,000,000🐸16,000,000🐝960,000🐜250,000via:Evan Sandhoefner 
+微博位置：无
+发布时间：2019-10-26 21:08
+点赞数：58
+转发数：44
+评论数：16
+发布工具：微博 weibo.com
+
+【(TensorFlow 2.0)基于 BERT 的命名实体识别】’BERT NER - Named Entity Recognition with BERT using TensorFlow 2.0' by Kamal Raj GitHub: http://t.cn/Ai1tfS4W  原图 
+微博位置：无
+发布时间：2019-10-26 15:13
+点赞数：24
+转发数：58
+评论数：6
+发布工具：Mac客户端
+
+【稠密向量搜索性能测评：Vespa vs. Elasticsearch】'Vespa.ai and Elastic.co performance evaluation for dense vector dot product - Performance comparison of Vespa.ai versus Elasticsearch for dense vector ranking' by Jo Kristian Bergum GitHub: http://t.cn/Ai1tcBge  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-26 15:08
+点赞数：17
+转发数：19
+评论数：5
+发布工具：Mac客户端
+
+【DeepSpectrum：基于预训练图像CNN的音频数据特征抽取工具包】’DeepSpectrum - a Python toolkit for feature extraction from audio data with pre-trained Image Convolutional Neural Networks (CNNs)' GitHub: http://t.cn/Ai1t2uyK  原图 
+微博位置：无
+发布时间：2019-10-26 14:40
+点赞数：20
+转发数：46
+评论数：10
+发布工具：Mac客户端
+
+【ETE：树的分析/可视化Python工具包】'ETE (Environment for Tree Exploration) - A Python framework for the analysis and visualization of trees.' http://t.cn/RqUNtpf GitHub: http://t.cn/Ai1tA4kT  原图 
+微博位置：无
+发布时间：2019-10-26 14:36
+点赞数：40
+转发数：70
+评论数：13
+发布工具：Mac客户端
+
+'Dex - Research language for array processing in the Haskell/ML family' by Google AI Research GitHub: http://t.cn/Ai15ejZQ  原图 
+微博位置：无
+发布时间：2019-10-26 14:02
+点赞数：3
+转发数：2
+评论数：0
+发布工具：Mac客户端
+
+数据科学家的时间哪去了？ via:Willem Pienaar  原图 
+微博位置：无
+发布时间：2019-10-26 12:30
+点赞数：44
+转发数：32
+评论数：5
+发布工具：Mac客户端
+
+时空折叠 🤩 via:Dirk Koy  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-26 11:44
+点赞数：30
+转发数：17
+评论数：2
+发布工具：微博视频
+
+Hinton 颇为推崇 Gary Marcus 的一段话：“层次化特征不太适合语言、推理和高级规划这类挑战。正如乔姆斯基著名的观点，语言中充斥着我们前所未见的句子。单纯的分类系统不知道该如何处理这些句子。特征检测器的长项——识别某事物属于某个类别的成员——并不能转而理解新句子，每句话都有自己独特的意义。”  src:http://t.cn/Ai1qH8CG [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-26 10:52
+点赞数：40
+转发数：40
+评论数：5
+发布工具：Mac客户端
+
+《爱可可老师一周论文精选(2019.10.26)》  爱可可老师一周论文精选(2019.10.26)  
+微博位置：无
+发布时间：2019-10-26 09:35
+点赞数：15
+转发数：7
+评论数：0
+发布工具：微博 weibo.com
+
+《爱可可老师一周热门分享(2019.10.26)》  爱可可老师一周热门分享(2019.10.26)  
+微博位置：无
+发布时间：2019-10-26 09:32
+点赞数：4
+转发数：6
+评论数：0
+发布工具：微博 weibo.com
+
+【报告演示简明指南】《Small Guide To Giving Presentation》by Markus Puschel http://t.cn/Ai1qhysc  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-26 09:11
+点赞数：36
+转发数：42
+评论数：10
+发布工具：Mac客户端
+
+【6-PACK：锚点关键点类别级6D目标追踪】《6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints》(2019) http://t.cn/Ai1GsYZt GitHub:http://t.cn/Ai12dMWJ  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-26 09:03
+点赞数：54
+转发数：60
+评论数：11
+发布工具：微博视频
+
+【Tensorflow 2.0 灌篮视频分类教程】《Slam Dunk Video Classification (Tensorflow 2.0 Distributed Training with the Data Science PC from Digital Storm!)》by Connor Shorten http://t.cn/Ai1GB5lX pdf:http://t.cn/Ai1GB5la  原图 
+微博位置：无
+发布时间：2019-10-26 08:42
+点赞数：16
+转发数：17
+评论数：4
+发布工具：微博 weibo.com
+
+【用Fitbit手环数据阻止大规模枪击的计划是迄今为止最可怕的提议之一——基于传感器数据的暴力倾向“神经行为”预测有多不靠谱】《The Plan to Use Fitbit Data to Stop Mass Shootings Is One of the Scariest Proposals Yet》by Melanie Ehrenkranz http://t.cn/Ai1GR6t5  原图 
+微博位置：无
+发布时间：2019-10-26 08:23
+点赞数：5
+转发数：7
+评论数：0
+发布工具：Mac客户端
+
+【用 CUDA 实现 Transformer 的 PyTorch 自定义层】《Writing a PyTorch custom layer in CUDA for Transformer》by Choongwoo Han http://t.cn/EIejfKe  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-26 08:01
+点赞数：27
+转发数：66
+评论数：6
+发布工具：Mac客户端
+
+【自然语言处理快速入门】《Natural Language Processing: A Crash Course!》by Shantanu Phadke http://t.cn/Ai1GXb94 pdf:http://t.cn/Ai1GXb9f  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-26 07:25
+点赞数：44
+转发数：92
+评论数：13
+发布工具：微博 weibo.com
+
+【数据可视化如何配色】《How to Choose Colors for Your Data Visualizations》by Michael Yi http://t.cn/Ai1GwPtv  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-26 06:12
+点赞数：90
+转发数：145
+评论数：21
+发布工具：微博 weibo.com
+
+《Artificial intelligence for elections: the case of 2019 Argentina primary and presidential election》Z Zhou, H A. Makse [Beihang University & City College of New York] (2019) http://t.cn/Ai1bFpTO view:http://t.cn/Ai1bFpTj  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-26 05:42
+点赞数：7
+转发数：9
+评论数：1
+发布工具：微博 weibo.com
+
+《Supervised Encoding for Discrete Representation Learning》C P. Le, Y Zhou, J Ding, V Tarokh [Duke University & University of Utah & University of Minnesota] (2019) http://t.cn/Ai1bkpmW view:http://t.cn/Ai1bkpmY GitHub: http://t.cn/Ai1bkpmj  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-26 05:38
+点赞数：10
+转发数：24
+评论数：2
+发布工具：微博 weibo.com
+
+《Minimax Regret of Switching-Constrained Online Convex Optimization: No Phase Transition》L Chen, Q Yu, H Lawrence, A Karbasi [Yale University & University of Southern California & Flatiron Institute] (2019) http://t.cn/Ai1bkhp5 view:http://t.cn/Ai1bkhp4  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-26 05:36
+点赞数：4
+转发数：4
+评论数：1
+发布工具：微博 weibo.com
+
+《The Performance Envelope of Inverted Indexing on Modern Hardware》J Lin, L Paniak, G Boerke [University of Waterloo] (2019) http://t.cn/Ai1beBKK view:http://t.cn/Ai1beBKC  [组图共4张] 原图 
+微博位置：无
+发布时间：2019-10-26 05:32
+点赞数：5
+转发数：2
+评论数：2
+发布工具：微博 weibo.com
+
+《Guided Image-to-Image Translation with Bi-Directional Feature Transformation》B AlBahar, J Huang [Virginia Tech] (2019) http://t.cn/Ai1beVDS view:http://t.cn/Ai1beVDC GitHub: http://t.cn/Ai1beVDp  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-26 05:30
+点赞数：13
+转发数：23
+评论数：4
+发布工具：微博 weibo.com
+
+*《Functional Tensors for Probabilistic Programming》F Obermeyer, E Bingham, M Jankowiak, D Phan, J P. Chen [Uber AI] (2019) http://t.cn/Ai1bd5UA view:http://t.cn/Ai1bd5U2 GitHub:http://t.cn/E97n3NS  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-26 05:21
+点赞数：5
+转发数：6
+评论数：0
+发布工具：微博 weibo.com
+
+《今日学术视野(2019.10.26) 》 http://t.cn/Ai1bB7ds  
+微博位置：无
+发布时间：2019-10-26 05:13
+点赞数：0
+转发数：1
+评论数：0
+发布工具：Mac客户端
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-26 05:11
+点赞数：52
+转发数：10
+评论数：0
+发布工具：HUAWEI P30 Pro
+
+晚安~  [组图共4张] 原图 
+微博位置：无
+发布时间：2019-10-25 21:46
+点赞数：75
+转发数：7
+评论数：11
+发布工具：Mac客户端
+
+《爱可可老师24小时热门分享(2019.10.25)》  爱可可老师24小时热门分享(2019.10.25)  
+微博位置：无
+发布时间：2019-10-25 21:45
+点赞数：4
+转发数：6
+评论数：1
+发布工具：微博 weibo.com
+
+今天有个人，在那搭网站。没用React，也没用Vue，没有Ember，就只坐在那，写着HTML，活像个精神病。via:Local Man  
+微博位置：无
+发布时间：2019-10-25 21:10
+点赞数：99
+转发数：97
+评论数：27
+发布工具：Mac客户端
+
+“我所感受到最快乐的时刻，是发现自己有能力创造的那一刻。” - Hazem Ali  
+微博位置：无
+发布时间：2019-10-25 21:04
+点赞数：86
+转发数：22
+评论数：2
+发布工具：Mac客户端
+
+'RepNet-Vehicle-ReID - Implementing RepNet(a two-stream multitask learning network) to do vehicle Re-identification, vehicle search(or vehicle match) with PyTorch 可用于车辆细粒度识别，车辆再识别，车辆匹配，车辆检索，RepNet/MDNet的一种PyTorch实现' by Even GitHub: http://t.cn/Ai12dyg4 [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-25 13:56
+点赞数：29
+转发数：72
+评论数：14
+发布工具：Mac客户端
+
+【多语种自然语言处理资源】'Multilingual NLP - Natural language processing resources for multiple languages, with an eye towards use for digital humanities.' by Multilingual Digital Humanities GitHub: http://t.cn/Ai1213YW  原图 
+微博位置：无
+发布时间：2019-10-25 13:49
+点赞数：14
+转发数：18
+评论数：2
+发布工具：Mac客户端
+
+【前背景分割(抠图)相关文献与资源列表】’awesome-background-subtraction - A curated list of background subtraction related papers and resources' by Murari Mandal GitHub: http://t.cn/Ai12YkCH  原图 
+微博位置：无
+发布时间：2019-10-25 13:17
+点赞数：18
+转发数：51
+评论数：9
+发布工具：Mac客户端
+
+【tsanley：张量程序(tensorflow, pytorch, numpy)的运行时形状检查器和自动注释工具】’tsanley - A runtime shape checker and auto-annotator for tensor programs (pronounced "stanley")' by OffNote Labs GitHub: http://t.cn/Ai12lRT8  原图 
+微博位置：无
+发布时间：2019-10-25 13:09
+点赞数：10
+转发数：12
+评论数：3
+发布工具：Mac客户端
+
+'18.06 线性代数（Linear Algebra）中文笔记 - Notes for MIT-Linear-Algebra' by Libo Qin GitHub: http://t.cn/Ai12SVe9  原图 
+微博位置：无
+发布时间：2019-10-25 12:37
+点赞数：62
+转发数：105
+评论数：27
+发布工具：Mac客户端
+
+【Matplotlib 实战入门教程】’Anatomy of Matplotlib -- tutorial developed for the SciPy conference' GitHub: http://t.cn/Ai1265IQ  原图 
+微博位置：无
+发布时间：2019-10-25 12:29
+点赞数：54
+转发数：79
+评论数：20
+发布工具：Mac客户端
+
+【学生视角看NLP博士申请的方方面面】《Student Perspectives on Applying to NLP PhD Programs》by Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, Nicholas Tomlin http://t.cn/Ai1A45O1  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-25 09:19
+点赞数：24
+转发数：27
+评论数：5
+发布工具：Mac客户端
+
+【未来十年数据科学将如何发展？】《How Data Science Will Evolve Over the Next Decade?》by Oleksii Kharkovyna http://t.cn/Ai1A7jdL  原图 
+微博位置：无
+发布时间：2019-10-25 08:54
+点赞数：25
+转发数：37
+评论数：9
+发布工具：微博 weibo.com
+
+【你应该多多使用的3个 Pandas 函数：idxmin() & idxmax()、cut()、pivot_table()】《3 Pandas Functions You Should Be Using More Often》by Dario Radečić http://t.cn/Ai1wFzzD  原图 
+微博位置：无
+发布时间：2019-10-25 08:39
+点赞数：50
+转发数：48
+评论数：18
+发布工具：Mac客户端
+
+【有限数据下Kaggle图像分类最新优胜技术】《Latest Winning Techniques for Kaggle Image Classification with Limited Data》by Kayo Yin http://t.cn/Ai1wihyb GitHub:http://t.cn/Ai1wihy4  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-25 06:44
+点赞数：46
+转发数：78
+评论数：12
+发布工具：微博 weibo.com
+
+【notebook 反模式】《The notebook anti-pattern》by Kristina Georgieva http://t.cn/Ai1wxoyF  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-25 06:38
+点赞数：12
+转发数：10
+评论数：3
+发布工具：Mac客户端
+
+【在远程服务器上运行 Jupyter Notebooks】《Running Jupyter Notebooks on Remote Servers》by Tobias Skovgaard Jepsen http://t.cn/Ai06EDb8 pdf:http://t.cn/Ai1wMeRt  原图 
+微博位置：无
+发布时间：2019-10-25 06:36
+点赞数：32
+转发数：39
+评论数：20
+发布工具：Mac客户端
+
+【Polynote: 支持 Scala 的 notebook】《Open-sourcing Polynote: an IDE-inspired polyglot notebook》 http://t.cn/Ai1wMSBF Home:http://t.cn/Ai1wMSrv  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-25 06:34
+点赞数：22
+转发数：34
+评论数：6
+发布工具：微博 weibo.com
+
+《Instance-Based Model Adaptation For Direct Speech Translation》M A D Gangi, V Nguyen, M Negri, M Turchi [University of Trento & Fondazione Bruno Kessler] (2019) http://t.cn/Ai1wwvpH view:http://t.cn/Ai1wwvpQ  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-25 05:26
+点赞数：0
+转发数：3
+评论数：2
+发布工具：微博 weibo.com
+
+《Iterative Matching Point》J Li, C Zhang [Washington University & Xi’an Jiaotong University] (2019) http://t.cn/Ai1wZ83A view:http://t.cn/Ai1wZ83w  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-25 05:25
+点赞数：6
+转发数：17
+评论数：3
+发布工具：微博 weibo.com
+
+《Using Segmentation Masks in the ICCV 2019 Learning to Drive Challenge》A Lovjer, M Yeom, B D. Schifferer, I Drori [Columbia University] (2019) http://t.cn/Ai1wZ4kW view:http://t.cn/Ai1wZ4kN GitHub: http://t.cn/Ai1wZ4kl  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-25 05:23
+点赞数：14
+转发数：21
+评论数：6
+发布工具：微博 weibo.com
+
+《Learning Partial Differential Equations from Data Using Neural Networks》A Hasan, J M. Pereira, R Ravier, S Farsiu, V Tarokh [Duke University] (2019) http://t.cn/Ai1whTaV view:http://t.cn/Ai1whTaI GitHub:http://t.cn/Ai1whTaM  [组图共7张] 原图 
+微博位置：无
+发布时间：2019-10-25 05:11
+点赞数：9
+转发数：18
+评论数：2
+发布工具：微博 weibo.com
+
+《Bootstrapping the Expressivity with Model-based Planning》K Dong, Y Luo, T Ma [Tsinghua University & Princeton University & Stanford University] (2019) http://t.cn/Ai1wPEss view:http://t.cn/Ai1wPnvh GitHub:http://t.cn/Ai1wPnvP  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-25 05:07
+点赞数：8
+转发数：6
+评论数：1
+发布工具：微博 weibo.com
+
+《今日学术视野(2019.10.25)》http://t.cn/Ai1Zsyj1  
+微博位置：无
+发布时间：2019-10-25 04:55
+点赞数：0
+转发数：1
+评论数：0
+发布工具：Mac客户端
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-25 04:53
+点赞数：29
+转发数：4
+评论数：4
+发布工具：Mac客户端
+
+晚安~  🐒🐱👭  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-24 21:47
+点赞数：49
+转发数：23
+评论数：15
+发布工具：微博视频
+
+《爱可可老师24小时热门分享(2019.10.24)》  爱可可老师24小时热门分享(2019.10.24)  
+微博位置：无
+发布时间：2019-10-24 21:45
+点赞数：4
+转发数：11
+评论数：1
+发布工具：微博 weibo.com
+
+我的微博日常   原图 
+微博位置：无
+发布时间：2019-10-24 20:23
+点赞数：90
+转发数：3
+评论数：29
+发布工具：Mac客户端
+
+【R语言数据清洗速查】《My Data Cleaning in R Cheat Sheet》by Yanqi Xu http://t.cn/Ai3RV0RC  原图 
+微博位置：无
+发布时间：2019-10-24 19:25
+点赞数：30
+转发数：26
+评论数：3
+发布工具：Mac客户端
+
+【TensorFlow 2.0 教程：tf.keras 到底怎么用？】《What is tf.keras really?》by Jared Winick http://t.cn/Ai1hDOPG GitHub:http://t.cn/Ai1hDOPA  原图 
+微博位置：无
+发布时间：2019-10-24 18:58
+点赞数：38
+转发数：57
+评论数：18
+发布工具：Mac客户端
+
+Gaze360：自然场景目光方向检测 paper:《Gaze360: Physically Unconstrained Gaze Estimation in the Wild》http://t.cn/Ai1hdEZa  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-24 18:50
+点赞数：44
+转发数：64
+评论数：10
+发布工具：微博视频
+
+台面“清猫”机器人 🐱🤖  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-24 18:32
+点赞数：25
+转发数：9
+评论数：6
+发布工具：微博视频
+
+【cinolib：用于处理多边形和多面体网格的C++头文件库】’cinolib - A generic programming header only C++ library for processing polygonal and polyhedral meshes' by Marco Livesu GitHub: http://t.cn/Ai1PGcLc  原图 
+微博位置：无
+发布时间：2019-10-24 14:03
+点赞数：22
+转发数：28
+评论数：5
+发布工具：Mac客户端
+
+【带有关键点检测的超轻量级人脸检测器】’Face-Detector-1MB-with-landmark - 1M人脸检测模型(含关键点)' by biubug6 GitHub: http://t.cn/Ai1vsEEx  原图 
+微博位置：无
+发布时间：2019-10-24 13:26
+点赞数：52
+转发数：76
+评论数：24
+发布工具：Mac客户端
+
+'NLPer-Interview - NLP 算法工程师相关的面试题' by songyingxin GitHub: http://t.cn/Ai1vdwMK  原图 
+微博位置：无
+发布时间：2019-10-24 13:08
+点赞数：113
+转发数：155
+评论数：49
+发布工具：Mac客户端
+
+【科技论文摘要数据集】’Scientific Summarization DataSets - Datasets I have created for scientific summarization.' by Santosh Gupta GitHub: http://t.cn/Ai1v1W6N  原图 
+微博位置：无
+发布时间：2019-10-24 13:02
+点赞数：10
+转发数：34
+评论数：6
+发布工具：Mac客户端
+
+【timebudget：使用超级简单的Python代码测速库】’timebudget - Stupidly-simple speed measurements for Python.' by Leo Dirac GitHub: http://t.cn/Ai1vusqK  原图 
+微博位置：无
+发布时间：2019-10-24 12:58
+点赞数：24
+转发数：30
+评论数：17
+发布工具：Mac客户端
+
+【免费书稿：因果推断——假定】《Causal Inference: What If》by Miguel A. Hernán, James M. Robins (2019.10.23) http://t.cn/Ri0lNe1 pdf:http://t.cn/Ai3syyu6  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-24 08:34
+点赞数：114
+转发数：620
+评论数：45
+发布工具：Mac客户端
+
+【ICCV 2019 论文集】”ICCV 2019 Proceedings” http://t.cn/Ai3s2XlU  原图 
+微博位置：无
+发布时间：2019-10-24 08:30
+点赞数：46
+转发数：114
+评论数：11
+发布工具：Mac客户端
+
+【FastSpark：从头开始(用Rust)实现一个更快的 Spark】《FastSpark: A New Fast Native Implementation of Spark from Scratch》by Raja Sekar http://t.cn/Ai3s7pES GitHub:http://t.cn/Ai3s7pEi  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-24 08:15
+点赞数：22
+转发数：62
+评论数：7
+发布工具：Mac客户端
+
+【善用5个优雅的 Python NumPy 函数】《5 smart Python NumPy functions》by Baijayanta Roy http://t.cn/Ai3sPlrC pdf:http://t.cn/Ai3sPlrp  [组图共5张] 原图 
+微博位置：无
+发布时间：2019-10-24 08:09
+点赞数：72
+转发数：82
+评论数：27
+发布工具：Mac客户端
+
+【配置完善的数据科学开发环境(Conda/Git/DVC/JupyterLab)】《Creating a solid Data Science development environment》by Gabriel dos Santos Goncalves http://t.cn/Ai3svgwl pdf:http://t.cn/Ai3svgwW  原图 
+微博位置：无
+发布时间：2019-10-24 08:07
+点赞数：35
+转发数：42
+评论数：18
+发布工具：Mac客户端
+
+【生命科学领域的AI：为什么我们在AI应用方面落后了？——鲜有积极回报、高度监管约束、缺乏大规模高质量数据】《Artificial Intelligence in life sciences: why are we lagging behind in AI adoption?》by Yamina Hakem http://t.cn/Ai3Fsn9B  原图 
+微博位置：无
+发布时间：2019-10-24 08:03
+点赞数：15
+转发数：11
+评论数：1
+发布工具：Mac客户端
+
+【用 Fréchet 距离度量视听质量】《Audio and Visual Quality Measurement using Fréchet Distance | Google AI Blog》 http://t.cn/Ai3F9Rb9 paper:《Fréchet Audio Distance: A Metric for Evaluating Music Enhancement Algorithms》(2019) http://t.cn/Ai3FC7Az  [组图共5张] 原图 
+微博位置：无
+发布时间：2019-10-24 06:28
+点赞数：7
+转发数：27
+评论数：2
+发布工具：Mac客户端
+
+《Non-Gaussianity of Stochastic Gradient Noise》A Panigrahi, R Somani, N Goyal, P Netrapalli [Microsoft Research & University of Washington] (2019) http://t.cn/Ai3FqvyE view:http://t.cn/Ai3Fqvyn  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:23
+点赞数：3
+转发数：8
+评论数：0
+发布工具：微博 weibo.com
+
+《Kernelized Wasserstein Natural Gradient》M Arbel, A Gretton, W Li, G Montufar [University College London & University of California, Los Angeles & Max Planck Institute for Mathematics in the Sciences] (2019) http://t.cn/Ai3FGc3y view:http://t.cn/Ai3FGc3G  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:21
+点赞数：2
+转发数：4
+评论数：1
+发布工具：微博 weibo.com
+
+《Improving the Gating Mechanism of Recurrent Neural Networks》A Gu, C Gulcehre, T L Paine, M Hoffman, R Pascanu [DeepMind] (2019) http://t.cn/Ai3FboQD view:http://t.cn/Ai3FboQg  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:18
+点赞数：10
+转发数：25
+评论数：4
+发布工具：微博 weibo.com
+
+《Detecting Extrapolation with Local Ensembles》D Madras, J Atwood, A D'Amour [University of Toronto & Google Brain] (2019) http://t.cn/Ai3F4kdi view:http://t.cn/Ai3F4kdI GitHub: http://t.cn/Ai3F4kd6  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:16
+点赞数：7
+转发数：7
+评论数：1
+发布工具：微博 weibo.com
+
+《MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension》A Fisch, A Talmor, R Jia, M Seo, E Choi, D Chen [MIT & Tel Aviv University & Stanford University & University of Washington] (2019) http://t.cn/Ai3F4Jsk view:http://t.cn/Ai3F4Jss GitHub: http://t.cn/Ai3F4iv7 [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:13
+点赞数：4
+转发数：5
+评论数：1
+发布工具：微博 weibo.com
+
+《Transductive Parsing for Universal Decompositional Semantics》E Stengel-Eskin, A S White, S Zhang, B V Durme [Johns Hopkins University & University of Rochester] (2019) http://t.cn/Ai3FU1rM view:http://t.cn/Ai3FU1rf  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:11
+点赞数：1
+转发数：1
+评论数：0
+发布工具：微博 weibo.com
+
+《Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI》A B Arrieta, N Díaz-Rodríguez... [TECNALIA & ENSTA] (2019) http://t.cn/Ai3FUXpN view:http://t.cn/Ai3FUXpK  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:10
+点赞数：10
+转发数：17
+评论数：1
+发布工具：微博 weibo.com
+
+《Understanding Undesirable Word Embedding Associations》K Ethayarajh, D Duvenaud, G Hirst [University of Toronto] (2019) http://t.cn/Ai3FLddp  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:03
+点赞数：2
+转发数：7
+评论数：0
+发布工具：微博 weibo.com
+
+《Causal bootstrapping》M A. Little, R Badawy [University of Birmingham] (2019) http://t.cn/Ai3FLKvN view:http://t.cn/Ai3FLKvp  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:01
+点赞数：11
+转发数：19
+评论数：3
+发布工具：微博 weibo.com
+
+《GPU-Accelerated Viterbi Exact Lattice Decoder for Batched Online and Offline Speech Recognition》H Braun, J Luitjens, R Leary [NVIDIA] (2019) http://t.cn/Ai3FL25X view:http://t.cn/Ai3FL25C  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-24 05:00
+点赞数：6
+转发数：14
+评论数：1
+发布工具：微博 weibo.com
+
+*《Gaze360: Physically Unconstrained Gaze Estimation in the Wild》P Kellnhofer, A Recasens, S Stent, W Matusik, A Torralba [MIT & Toyota Research Institute] (2019) http://t.cn/Ai3F2Eih view:http://t.cn/Ai3F2Eiv Home:http://t.cn/Ai3F2EiP GitHub: http://t.cn/Ai3F2EJs  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-24 04:58
+点赞数：5
+转发数：23
+评论数：2
+发布工具：微博 weibo.com
+
+*《Improved Sample Complexities for Deep Networks and Robust Classification via an All-Layer Margin》C Wei, T Ma [Stanford University] (2019) http://t.cn/Ai3FAB6x view:http://t.cn/Ai3FAB6i  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-24 04:55
+点赞数：1
+转发数：7
+评论数：0
+发布工具：微博 weibo.com
+
+今日学术视野(2019.10.24) http://t.cn/Ai3FZQML  
+微博位置：无
+发布时间：2019-10-24 04:47
+点赞数：0
+转发数：1
+评论数：0
+发布工具：Mac客户端
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-24 04:45
+点赞数：21
+转发数：5
+评论数：3
+发布工具：Mac客户端
+
+晚安~   原图 
+微博位置：无
+发布时间：2019-10-23 21:29
+点赞数：31
+转发数：3
+评论数：5
+发布工具：Mac客户端
+
+《爱可可老师24小时热门分享(2019.10.23)》  爱可可老师24小时热门分享(2019.10.23)  
+微博位置：无
+发布时间：2019-10-23 21:26
+点赞数：6
+转发数：2
+评论数：1
+发布工具：微博 weibo.com
+
+跟失去理性的人争论就像喂死人喝药。 - Thomas Paine  
+微博位置：无
+发布时间：2019-10-23 19:00
+点赞数：62
+转发数：21
+评论数：3
+发布工具：Mac客户端
+
+换台新Mac笔记本要把开发环境重新配好…… 😓  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-23 18:33
+点赞数：177
+转发数：38
+评论数：16
+发布工具：微博视频
+
+我和bug的日常 🐅🦆😂  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-23 18:17
+点赞数：58
+转发数：25
+评论数：8
+发布工具：微博视频
+
+“拼图面具”#AR#应用  via:Parker Gibbons  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-23 18:17
+点赞数：14
+转发数：12
+评论数：4
+发布工具：微博视频
+
+【普利策奖得主、小说家 Cormac McCarthy 关于 如何撰写优秀科研论文的建议】《Novelist Cormac McCarthy’s tips on how to write a great science paper》 http://t.cn/AingkLpT  原图 
+微博位置：无
+发布时间：2019-10-23 14:17
+点赞数：15
+转发数：15
+评论数：7
+发布工具：Mac客户端
+
+【NLP领域的“劣币驱逐良币”：研究人员是否在被鼓励用不良的数据集？】《Do We Encourage Researchers to Use Inappropriate Data Sets? 》by ehudreiter http://t.cn/Ai3dcf1K  原图 
+微博位置：无
+发布时间：2019-10-23 14:06
+点赞数：27
+转发数：18
+评论数：3
+发布工具：Mac客户端
+
+'RFSong行人检测网络 - 重新设计的轻量级RFB进行行人检测，AP达到0.7993，参数量仅有3.1MB，200 FPS' by songwsx GitHub: http://t.cn/Ai3d2bGs  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-23 13:39
+点赞数：21
+转发数：63
+评论数：14
+发布工具：Mac客户端
+
+【命令行音频可视化工具】’cli-visualizer - CLI based audio visualizer' by Darby Payne GitHub: http://t.cn/RfIIBH9  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-23 13:24
+点赞数：17
+转发数：12
+评论数：4
+发布工具：Mac客户端
+
+'基于mtcnn人脸检测+onet人脸跟踪（光流跟踪）' by JackXiong GitHub: http://t.cn/Ai3rsfV3  原图 
+微博位置：无
+发布时间：2019-10-23 13:15
+点赞数：36
+转发数：64
+评论数：17
+发布工具：Mac客户端
+
+【JupyterLab 扩展：链接数据探索】’JupyterLab Metadata Extension - Linked data exploration in JupyterLab.'  GitHub: http://t.cn/Ai3rByST  原图 
+微博位置：无
+发布时间：2019-10-23 12:54
+点赞数：11
+转发数：11
+评论数：7
+发布工具：Mac客户端
+
+【pdb++：Python 调试器 pdb 的强化替代品】’pdb++, a drop-in replacement for pdb - pdb++, a drop-in replacement for pdb (the Python debugger)' by pdbpp GitHub: http://t.cn/Ai3rupzp  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-23 12:48
+点赞数：14
+转发数：20
+评论数：2
+发布工具：Mac客户端
+
+【Fast-SRGAN 图像超分辨率】’Fast-SRGAN - A Single Image Super Resolution GAN that uses a mobile net architecture as a generator.' by Hasnain Raza GitHub: http://t.cn/Ai3rnoe5  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-23 12:43
+点赞数：18
+转发数：45
+评论数：12
+发布工具：Mac客户端
+
+【深入理解高斯过程】《Gaussian Process, not quite for dummies》by Yuge Shi http://t.cn/AinvGILm  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-23 06:06
+点赞数：120
+转发数：183
+评论数：38
+发布工具：Mac客户端
+
+【给博士生的一些基本建议】《PhD 101》by Volkan Cirik http://t.cn/Ai31aLQt  原图 
+微博位置：无
+发布时间：2019-10-23 05:57
+点赞数：45
+转发数：52
+评论数：13
+发布工具：Mac客户端
+
+【NLP Architect：Transformer 模型的高效训练和推理优化】《NLP Architect: Efficient Training and Optimized Inference of Transformer Models | Intel AI Lab》 http://t.cn/Ai31Xwry GitHub:http://t.cn/R1wyRVv  原图 
+微博位置：无
+发布时间：2019-10-23 05:52
+点赞数：33
+转发数：55
+评论数：15
+发布工具：Mac客户端
+
+《NASIB: Neural Architecture Search withIn Budget》A Singh, A Garg, J Zhou, S R Dubey, D Dutta [MIT Media Labs & Cisco Systems & IIIT Sri City] (2019) http://t.cn/Ai31Mjju view:http://t.cn/Ai31Mjj1  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-23 05:32
+点赞数：11
+转发数：6
+评论数：2
+发布工具：微博 weibo.com
+
+《Gradient Boosted Decision Tree Neural Network》M Saberian, P Delgado, Y Raimond [Netflix] (2019) http://t.cn/Ai31MG0L view:http://t.cn/Ai31MG0A  [组图共4张] 原图 
+微博位置：无
+发布时间：2019-10-23 05:30
+点赞数：22
+转发数：39
+评论数：5
+发布工具：微博 weibo.com
+
+《DwNet: Dense warp-based network for pose-guided human video generation》P Zablotskaia, A Siarohin, B Zhao, L Sigal [University of British Columbia & University of Trento] (2019) http://t.cn/Ai31IF5w view:http://t.cn/Ai31IF52  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-23 05:29
+点赞数：9
+转发数：22
+评论数：3
+发布工具：微博 weibo.com
+
+《Component Attention Guided Face Super-Resolution Network: CAGFace》R Kalarot, T Li, F Porikli [The University of Auckland & Purdue University & The Australian National University] (2019) http://t.cn/Ai31IcxK view:http://t.cn/Ai31Icxa  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-23 05:26
+点赞数：12
+转发数：26
+评论数：6
+发布工具：微博 weibo.com
+
+《Modelling Generalized Forces with Reinforcement Learning for Sim-to-Real Transfer》R Jeong, J Kay, F Romano, T Lampe, T Rothorl, A Abdolmaleki, T Erez, Y Tassa, F Nori [DeepMind] (2019) http://t.cn/Ai31fEDs view:http://t.cn/Ai31fEkh  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-23 05:23
+点赞数：3
+转发数：3
+评论数：1
+发布工具：微博 weibo.com
+
+《Neural Logic Networks》S Shi, H Chen, M Zhang, Y Zhang [Tsinghua University & Rutgers University] (2019) http://t.cn/Ai31fKVP view:http://t.cn/Ai31fKV7  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-23 05:22
+点赞数：11
+转发数：20
+评论数：3
+发布工具：微博 weibo.com
+
+《Discovering the Compositional Structure of Vector Representations with Role Learning Networks》P Soulos, T McCoy, T Linzen, P Smolensky [Johns Hopkins University & Microsoft Research AI] (2019) http://t.cn/Ai31V9bm view:http://t.cn/Ai31V9b1 GitHub: http://t.cn/Ai31V9bn  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-23 05:17
+点赞数：4
+转发数：11
+评论数：0
+发布工具：微博 weibo.com
+
+*《LinesToFacePhoto: Face Photo Generation from Lines with Conditional Self-Attention Generative Adversarial Network》Y Li, X Chen, F Wu, Z Zha [University of Science and Technology of China] (2019) http://t.cn/Ai31c8Qn view:http://t.cn/Ai31c8Q1  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-23 05:13
+点赞数：4
+转发数：19
+评论数：4
+发布工具：微博 weibo.com
+
+*《Science and Technology Advance through Surprise》F Shi, J Evans [University of North Carolina at Chapel Hill & University of Chicago] (2019) http://t.cn/Ai31c7oQ view:http://t.cn/Ai31c7oR  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-23 05:10
+点赞数：7
+转发数：3
+评论数：1
+发布工具：微博 weibo.com
+
+*《Meta-Learning Deep Energy-Based Memory Models》S Bartunov, J W Rae, S Osindero, T P Lillicrap [DeepMind] (2019) http://t.cn/Ai31GHNf view:http://t.cn/Ai31GHNt  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-23 04:53
+点赞数：9
+转发数：19
+评论数：5
+发布工具：微博 weibo.com
+
+《今日学术视野(2019.10.23)》http://t.cn/Ai314fzt  
+微博位置：无
+发布时间：2019-10-23 04:42
+点赞数：6
+转发数：2
+评论数：0
+发布工具：Mac客户端
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-23 04:40
+点赞数：25
+转发数：4
+评论数：5
+发布工具：Mac客户端
+
+《爱可可老师24小时热门分享(2019.10.22)》  爱可可老师24小时热门分享(2019.10.22)  
+微博位置：无
+发布时间：2019-10-22 21:52
+点赞数：8
+转发数：5
+评论数：0
+发布工具：微博 weibo.com
+
+晚安~   爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-22 21:50
+点赞数：24
+转发数：6
+评论数：0
+发布工具：微博视频
+
+韩国的3D线稿风餐厅 🤩  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-22 18:52
+点赞数：32
+转发数：5
+评论数：3
+发布工具：微博视频
+
+萌萌的触手机器人 🤖  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-22 18:47
+点赞数：20
+转发数：11
+评论数：9
+发布工具：微博视频
+
+某论文co-author   via:Oded Rechavi  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-22 18:44
+点赞数：307
+转发数：382
+评论数：48
+发布工具：微博视频
+
+#转发赠书# #购书福利# 联合@博文视点Broadview 送出5本下图畅销新书(5人每人任选1本)，截止2019.10.30 12:00 *可可粉*转发即可参与  当当1024程序员节自营科技图书每满100减50，结算时输入优惠码：WBJZPK（区分大小写），实付200再减30元！花170元买400元图书，4折购买新书超划算！扫描下方小程序直接下单享优惠。@微博抽奖平台 http://t.cn/Ai3m7wx1 [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-22 17:44
+点赞数：40
+转发数：369
+评论数：73
+发布工具：Mac客户端
+
+【Kaggle 递归细胞图像分类比赛第一名方案】’1st Place Solution for Kaggle Recursion Cellular Image Classification Challenge' by maciej-sypetkowski GitHub: http://t.cn/Ai3EnRs4 ref:http://t.cn/Ai3EnRsq  原图 
+微博位置：无
+发布时间：2019-10-22 14:08
+点赞数：26
+转发数：50
+评论数：9
+发布工具：Mac客户端
+
+'MSTIC Jupyter and Python Security Tools - Microsoft Threat Intelligence Security Tools' by Microsoft GitHub: http://t.cn/Ai3ERPPF  原图 
+微博位置：无
+发布时间：2019-10-22 14:01
+点赞数：7
+转发数：8
+评论数：2
+发布工具：Mac客户端
+
+【PKUSeg：语义分割基准工具包】’PKUSeg - Benchmarks for Semantic Segmentation.' by cv-benchmarks GitHub: http://t.cn/Ai3EM442  原图 
+微博位置：无
+发布时间：2019-10-22 12:55
+点赞数：27
+转发数：54
+评论数：11
+发布工具：Mac客户端
+
+【PyTorch 移植版 InsightFace】’Pytorch InsightFace - Pretrained insightface models ported to pytorch' by Evgeny Nizhibitsky GitHub: http://t.cn/Ai3EfNbw  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-22 12:50
+点赞数：30
+转发数：42
+评论数：15
+发布工具：Mac客户端
+
+【Human3.6M：包含360万个人体姿态和相应图像的3D人体姿态数据集】“Human3.6M Dataset -  a 3D human pose dataset containing 3.6 million human poses and corresponding images”  http://t.cn/Ai3E54Qn Toolbox: http://t.cn/Ai3E54Qu  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-22 12:39
+点赞数：42
+转发数：76
+评论数：15
+发布工具：Mac客户端
+
+【能用 pip 安装的 StackNN 可微栈(PyTorch)】’stacknn-core: The Successor to StackNN - Pip-installable differentiable stacks in PyTorch!' by viking-sudo-rm GitHub: http://t.cn/Ai3EGrlI paper:《Context-Free Transductions with Neural Stacks》(ACL 2018) http://t.cn/Ai3EGrlX  原图 
+微博位置：无
+发布时间：2019-10-22 12:35
+点赞数：11
+转发数：12
+评论数：0
+发布工具：Mac客户端
+
+放20年前，这场景只出现在科幻小说里 🤩  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-22 08:39
+点赞数：54
+转发数：28
+评论数：10
+发布工具：微博视频
+
+加拿大伪装公司Hyperstealth Biotechnology已申请了四项与量子隐形、“隐身衣”原型材料相关的专利 src:http://t.cn/zQnVk5x  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-22 08:34
+点赞数：59
+转发数：21
+评论数：4
+发布工具：微博视频
+
+历史学才是真正的未来学。 via:施展  
+微博位置：无
+发布时间：2019-10-22 08:27
+点赞数：51
+转发数：30
+评论数：5
+发布工具：Mac客户端
+
+特性(features)，质量(quality)，时间(time)：三者不可兼得。 - 佚名  
+微博位置：无
+发布时间：2019-10-22 08:26
+点赞数：23
+转发数：22
+评论数：3
+发布工具：Mac客户端
+
+François Chollet：你试图接触的受众和你利用的渠道很大程度上说明了你到底想干嘛。在会议、arXiv之类的渠道发表论文，你更像是在做研究；相对的，如果主要目标是被更多媒体报道，你更像是在玩票圈。  
+微博位置：无
+发布时间：2019-10-22 08:14
+点赞数：25
+转发数：6
+评论数：1
+发布工具：Mac客户端
+
+【如何准备博士答辩】《Preparing for a doctoral viva》by Tribe, R. & Tunariu, A http://t.cn/Ai38Oi4I  原图 
+微博位置：无
+发布时间：2019-10-22 08:01
+点赞数：50
+转发数：119
+评论数：18
+发布工具：Mac客户端
+
+【释放Python 3.8海象操作符(:=)的潜力】《Unleashing the power of Walrus operator in Python 3.8》by Animesh Gaitonde http://t.cn/Ai389QHq pdf:http://t.cn/Ai389QHG  原图 
+微博位置：无
+发布时间：2019-10-22 07:46
+点赞数：29
+转发数：23
+评论数：6
+发布工具：Mac客户端
+
+【用 Simple Transformer 简单玩转各种最新 Transformer 模型】《Simple Transformers — Multi-Class Text Classification with BERT, RoBERTa, XLNet, XLM, and DistilBERT》by Thilina Rajapakse http://t.cn/Ai38K43O GitHub:http://t.cn/Ai38K43N  原图 
+微博位置：无
+发布时间：2019-10-22 07:41
+点赞数：31
+转发数：75
+评论数：16
+发布工具：Mac客户端
+
+【哪个才是数据科学第一块敲门砖？数学还是编程？】《How to Get into Data Science — Math Or Coding》by Low Wei Hong http://t.cn/Ai38Sg5O  原图 
+微博位置：无
+发布时间：2019-10-22 07:37
+点赞数：39
+转发数：59
+评论数：10
+发布工具：微博 weibo.com
+
+【图卷积网络(GCN)情感识别】《Emotion Recognition Using Graph Convolutional Networks》by Kevin Shen http://t.cn/Ai382zuo pdf:http://t.cn/Ai382zuK  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-22 06:16
+点赞数：44
+转发数：85
+评论数：16
+发布工具：Mac客户端
+
+【用Python制作漂亮、有洞察力的图表——快速的、漂亮的、杰出的】《Learn how to create beautiful and insightful charts with Python — the Quick, the Pretty, and the Awesome》by Fabian Bosler http://t.cn/Ai38ApuM pdf:http://t.cn/Ai38ApuJ  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-22 06:14
+点赞数：113
+转发数：200
+评论数：42
+发布工具：Mac客户端
+
+《Automatic Data Augmentation by Learning the Deterministic Policy》Y Shi, T Qin, Y Liu, J Lu, Y Gao, D Shen [Nanjing University & UNC Chapel Hill] (2019) http://t.cn/Ai3QDlpA view:http://t.cn/Ai3QDlp2  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-22 05:29
+点赞数：13
+转发数：26
+评论数：5
+发布工具：微博 weibo.com
+
+《Mirror Descent View for Neural Network Quantization》T Ajanthan, K Gupta, P H. S. Torr, R Hartley, P K. Dokania [Australian National University & University of Oxford] (2019) http://t.cn/Ai3QeweX view:http://t.cn/Ai3QeweK  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-22 05:23
+点赞数：6
+转发数：5
+评论数：2
+发布工具：微博 weibo.com
+
+《Scoring-Aggregating-Planning: Learning task-agnostic priors from interactions and sparse rewards for zero-shot generalization》H Xu, B Chen, Y Gao, T Darrell [UC Berkeley] (2019) http://t.cn/Ai3QddRT view:http://t.cn/Ai3QddRR  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-22 05:18
+点赞数：5
+转发数：4
+评论数：1
+发布工具：微博 weibo.com
+
+《RTFM: Generalising to Novel Environment Dynamics via Reading》V Zhong, T Rocktäschel, E Grefenstette [University of Washington & University College London] (2019) http://t.cn/Ai3Qdyl7 view:http://t.cn/Ai3Qdylw  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-22 05:15
+点赞数：5
+转发数：1
+评论数：0
+发布工具：微博 weibo.com
+
+《A Mutual Information Maximization Perspective of Language Representation Learning》L Kong, C d M d'Autume, W Ling, L Yu, Z Dai, D Yogatama [DeepMind & CMU] (2019) http://t.cn/Ai3QrYYx view:http://t.cn/Ai3QrYYi  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-22 05:13
+点赞数：12
+转发数：17
+评论数：1
+发布工具：微博 weibo.com
+
+《今日学术视野(2019.10.22)》http://t.cn/Ai3Qrvn2  
+微博位置：无
+发布时间：2019-10-22 05:10
+点赞数：0
+转发数：0
+评论数：0
+发布工具：Mac客户端
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-22 05:10
+点赞数：20
+转发数：5
+评论数：3
+发布工具：Mac客户端
+
+晚安~   原图 
+微博位置：无
+发布时间：2019-10-21 21:44
+点赞数：50
+转发数：4
+评论数：4
+发布工具：Mac客户端
+
+《爱可可老师24小时热门分享(2019.10.21)》  爱可可老师24小时热门分享(2019.10.21)  
+微博位置：无
+发布时间：2019-10-21 21:43
+点赞数：4
+转发数：2
+评论数：0
+发布工具：微博 weibo.com
+
+炒作 vs. 现实  via:Gary Marcus  原图 
+微博位置：无
+发布时间：2019-10-21 20:44
+点赞数：24
+转发数：13
+评论数：1
+发布工具：Mac客户端
+
+请验证身份 🤖 via:Tom Gauld  原图 
+微博位置：无
+发布时间：2019-10-21 20:37
+点赞数：16
+转发数：4
+评论数：1
+发布工具：Mac客户端
+
+Docker？ 😂  via:Tomasz Łakomy  原图 
+微博位置：无
+发布时间：2019-10-21 19:47
+点赞数：43
+转发数：9
+评论数：7
+发布工具：Mac客户端
+
+有非同行的朋友问你最近在忙啥的时候…… 😓  原图 
+微博位置：无
+发布时间：2019-10-21 14:24
+点赞数：23
+转发数：4
+评论数：5
+发布工具：Mac客户端
+
+在星巴克看到个人，手里没拿手机，没有平板电脑，也没带笔记本，就只是坐在那，喝着他的咖啡，活像个精神病。via:Dave Vescio  
+微博位置：无
+发布时间：2019-10-21 14:08
+点赞数：94
+转发数：31
+评论数：19
+发布工具：Mac客户端
+
+【Friture：音频实时可视化分析器】’Friture - Real-time audio visualizations (spectrum, spectrogram, etc.)' by Timothée Lecomte http://t.cn/Ai3l1l41 GitHub: http://t.cn/AiEesruQ  原图 
+微博位置：无
+发布时间：2019-10-21 13:09
+点赞数：27
+转发数：50
+评论数：12
+发布工具：Mac客户端
+
+'MICCAI 2019 Open Source Papers' by Jun GitHub: http://t.cn/Ai3lRi1B  原图 
+微博位置：无
+发布时间：2019-10-21 12:53
+点赞数：24
+转发数：43
+评论数：12
+发布工具：Mac客户端
+
+'基于人脸关键区域提取的人脸识别(LFW:99.82%+ CFP_FP:98.50%+ AgeDB30:98.25%+)’ by bleakie GitHub: http://t.cn/Ai3l8tZi  原图 
+微博位置：无
+发布时间：2019-10-21 12:51
+点赞数：21
+转发数：71
+评论数：15
+发布工具：Mac客户端
+
+【用来创建/更新 Word 文件的C++库】’DuckX - C++ library for creating and updating Microsoft Word (.docx) files.' by AMIR GitHub: http://t.cn/Ai3lQgah  原图 
+微博位置：无
+发布时间：2019-10-21 12:50
+点赞数：18
+转发数：22
+评论数：8
+发布工具：Mac客户端
+
+【类似 Solr 的轻量搜索引擎框架(JavaScript)】’Lunr.js - A bit like Solr, but much smaller and not as bright' by Oliver Nightingale http://t.cn/Ai3lH3U4 GitHub: http://t.cn/zY8MWmn  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-21 12:47
+点赞数：10
+转发数：11
+评论数：1
+发布工具：Mac客户端
+
+【AI未来说！最前沿的AI青年论坛第十期】来自北大的袁晓如老师，百度的陈国庆、刘经拓、吴健民、吴永巍，共同阐述视频理解与推荐领域最新研究成果~ 10月27日下午13:30-17:30，中科院大学（中关村校区）教学楼第二层S201教室，扫描海报二维码报名参与。本周五12:00前转发本微博，还有机会获得定制无线鼠标一只。 #转发抽奖# @微博抽奖平台 http://t.cn/Ai3WQeQM [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-21 10:00
+点赞数：16
+转发数：55
+评论数：20
+发布工具：微博 weibo.com
+
+没做好准备开啃一本“硬”书 😂  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-21 09:06
+点赞数：21
+转发数：6
+评论数：3
+发布工具：微博视频
+
+更格卢鼠(kangaroo rat)对蛇攻击的逃命反应时间不到70毫秒，是哺乳动物里最快的惊吓反应  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-21 09:04
+点赞数：29
+转发数：8
+评论数：4
+发布工具：微博视频
+
+【低至免费：如何以现代开源方式成为科学家(善用现代科研工具)】《How to be a modern scientist》by Jeffrey Leek http://t.cn/Rti1lrk  原图 
+微博位置：无
+发布时间：2019-10-21 06:50
+点赞数：75
+转发数：215
+评论数：24
+发布工具：Mac客户端
+
+欧拉断言这是 aᵇ=bᵃ 的唯一解 via:Fermat's Library  原图 
+微博位置：无
+发布时间：2019-10-21 06:43
+点赞数：61
+转发数：14
+评论数：27
+发布工具：Mac客户端
+
+【把论文变成可发表的期刊文章】《Turning Your Dissertation Into a Publishable Journal Article》by Tribe, R., Tunariu, A.D. http://t.cn/Ai3OSf0g  原图 
+微博位置：无
+发布时间：2019-10-21 06:41
+点赞数：37
+转发数：51
+评论数：14
+发布工具：Mac客户端
+
+【为 BERT 提速】《Speeding up BERT》by Grigory Sapunov http://t.cn/AimNPl5i  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:52
+点赞数：29
+转发数：43
+评论数：4
+发布工具：微博 weibo.com
+
+《Discriminator optimal transport》A Tanaka [RIKEN & Keio University] (2019) http://t.cn/Ai3Obe0u view:http://t.cn/Ai3Obe0H  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:42
+点赞数：8
+转发数：10
+评论数：1
+发布工具：微博 weibo.com
+
+《Mixed Pooling Multi-View Attention Autoencoder for Representation Learning in Healthcare》S Chowdhury, C Zhang, P S.Yu, Y Luo [University of Illinois at Chicago & Amazon & Northwestern University] (2019) http://t.cn/Ai3ObGxH view:http://t.cn/Ai3ObGxT  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:39
+点赞数：14
+转发数：25
+评论数：3
+发布工具：微博 weibo.com
+
+《Distributed Bayesian Computation for Model Choice》A Buchholz, D Ahfock, S Richardson [University of Cambridge & The University of Queensland] (2019) http://t.cn/Ai3O4rky view:http://t.cn/Ai3O4rk2 GitHub:http://t.cn/Ai3O4rkb  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:38
+点赞数：9
+转发数：8
+评论数：1
+发布工具：微博 weibo.com
+
+《Graph Sampling with Distributed In-Memory Dataflow Systems》K Gomez, M Täschner, M. A Rostami, C Rost, E Rahm [University of Leipzig] (2019) http://t.cn/Ai3O4KkD view:http://t.cn/Ai3O4Kke  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:36
+点赞数：4
+转发数：6
+评论数：2
+发布工具：微博 weibo.com
+
+《Neural tangent kernels, transportation mappings, and universal approximation》Z Ji, M Telgarsky, R Xian [University of Illinois] (2019) http://t.cn/Ai3OUud7 view:http://t.cn/Ai3OUudz  原图 
+微博位置：无
+发布时间：2019-10-21 05:33
+点赞数：3
+转发数：4
+评论数：0
+发布工具：微博 weibo.com
+
+《An Anatomy of Graph Neural Networks Going Deep via the Lens of Mutual Information: Exponential Decay vs. Full Preservation》N M Gürel, H Ren, Y Wang, H Xue, Y Yang, C Zhang [ETH Zurich & Univerisity of Chinese Academy of Sciences & Microsoft Research Asia] (2019) http://t.cn/Ai3OU6yC view:http://t.cn/Ai3OU6y9 [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:32
+点赞数：12
+转发数：17
+评论数：2
+发布工具：微博 weibo.com
+
+《What's in my Room? Object Recognition on Indoor Panoramic Images》J Guerrero-Viu, C Fernandez-Labrador, C Demonceaux, J J. Guerrero [Universidad de Zaragoza & Universite Bourgogne Franche-Comte] (2019) http://t.cn/Ai3O2Cwc view:http://t.cn/Ai3O2Cwt  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:20
+点赞数：7
+转发数：10
+评论数：3
+发布工具：微博 weibo.com
+
+《Machine Learning for Generalizable Prediction of Flood Susceptibility》C Sidrane, D J Fitzpatrick, A Annex, D O'Donoghue, Y Gal, P Biliński [Stanford University & CMU & Johns Hopkins University & kx & University of Oxford & University of Warsaw] (2019) http://t.cn/Ai3OAMCb view:http://t.cn/Ai3OAMCt [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:15
+点赞数：1
+转发数：3
+评论数：2
+发布工具：微博 weibo.com
+
+《Soft Actor-Critic for Discrete Action Settings》P Christodoulou [Imperial College London] (2019) http://t.cn/Ai3OwsA7 view:http://t.cn/Ai3OwsAw GitHub:http://t.cn/EqpYnOH  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:14
+点赞数：8
+转发数：8
+评论数：2
+发布工具：微博 weibo.com
+
+*《Deep Structured Mixtures of Gaussian Processes》M Trapp, R Peharz, F Pernkopf, C E. Rasmussen [TU Graz & University of Cambridge] (2019) http://t.cn/Ai3Owpyi view:http://t.cn/Ai3Owpyx  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-21 05:12
+点赞数：6
+转发数：10
+评论数：0
+发布工具：微博 weibo.com
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-21 05:03
+点赞数：33
+转发数：14
+评论数：7
+发布工具：Mac客户端
+
+《爱可可老师24小时热门分享(2019.10.20)》  爱可可老师24小时热门分享(2019.10.20)  
+微博位置：无
+发布时间：2019-10-20 21:23
+点赞数：9
+转发数：1
+评论数：0
+发布工具：微博 weibo.com
+
+连续与离散  via:Allison Horst  原图 
+微博位置：无
+发布时间：2019-10-20 21:15
+点赞数：32
+转发数：13
+评论数：1
+发布工具：Mac客户端
+
+爱的样子：聋哑父亲与新生宝宝的“对话”  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-20 21:06
+点赞数：45
+转发数：6
+评论数：1
+发布工具：微博视频
+
+【带有元数据文本的最小监督分类】'Minimally Supervised Categorization of Text with Metadata - Minimally Supervised Categorization of Text with Metadata' by Yu Zhang GitHub: http://t.cn/Ai3N3pAD  原图 
+微博位置：无
+发布时间：2019-10-20 20:54
+点赞数：9
+转发数：18
+评论数：2
+发布工具：Mac客户端
+
+【旅行商问题解决算法可视化】’Traveling Salesman Problem - Visualization of algorithms for solving the traveling salesman problem' by Jeff Hackshaw http://t.cn/Ai35STm5 GitHub: http://t.cn/Ai3N8ROf  原图 
+微博位置：无
+发布时间：2019-10-20 20:38
+点赞数：41
+转发数：52
+评论数：7
+发布工具：Mac客户端
+
+【开发运维(DevOps)面试问题集】’DevOps Interview Questions - DevOps Interview Questions - Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform' by Arie Bregman GitHub: http://t.cn/Ai3NQfy4  原图 
+微博位置：无
+发布时间：2019-10-20 20:33
+点赞数：27
+转发数：30
+评论数：11
+发布工具：Mac客户端
+
+【基于键值存储的嵌入式SQL数据库】’Genji - SQL database on top of Key-Value stores, works with Bolt, Badger and memory' by Asdine El Hrychy GitHub: http://t.cn/Ai3oaeQS  原图 
+微博位置：无
+发布时间：2019-10-20 20:25
+点赞数：10
+转发数：10
+评论数：3
+发布工具：Mac客户端
+
+好棒！请给孩子们多营造一些发挥创造力的空间~ 🤩  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-20 10:34
+点赞数：82
+转发数：28
+评论数：9
+发布工具：微博视频
+
+宇宙的奥秘就藏在我们的身体里 🤩  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-20 10:32
+点赞数：17
+转发数：23
+评论数：2
+发布工具：微博视频
+
+数据科学家甲：设参数为1042数据科学家乙：等等，干嘛把参数设成一个随意又没意义的数字？数据科学家甲：哦，抱歉抱歉，我是说1024数据科学家乙：(*赞许地点了点头*)这就有意义了via:Jacqueline Nolis  
+微博位置：无
+发布时间：2019-10-20 10:26
+点赞数：107
+转发数：37
+评论数：11
+发布工具：Mac客户端
+
+2019进度：▓▓▓▓▓▓▓▓▓▓▓▓░░░ 80% ⛽️  
+微博位置：无
+发布时间：2019-10-20 08:53
+点赞数：70
+转发数：31
+评论数：10
+发布工具：Mac客户端
+
+《本周论文关注榜(2019.10.20)》  本周论文关注榜(2019.10.20)  
+微博位置：无
+发布时间：2019-10-20 08:47
+点赞数：7
+转发数：9
+评论数：1
+发布工具：微博 weibo.com
+
+【Jupyter 常用技巧几则】《Jupyter Tips and Tricks》by Christoph Rieke http://t.cn/Ai3oResD  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-20 08:05
+点赞数：62
+转发数：74
+评论数：21
+发布工具：Mac客户端
+
+【基于均值-方差优化的(Python)算法交易】《Algorithmic trading based on mean-variance optimization in Python》by Eryk Lewinson http://t.cn/Ai3oQMV4  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-20 07:56
+点赞数：26
+转发数：49
+评论数：4
+发布工具：微博 weibo.com
+
+【面向数据科学的Python多进程编程】《Multiprocessing for Data Scientists in Python》by Analytics Vidhya http://t.cn/Ai3oTWYb  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-20 07:50
+点赞数：48
+转发数：58
+评论数：17
+发布工具：微博 weibo.com
+
+【为数据科学及其他任务配置实用的Python开发环境】《How to Setup an Awesome Python Environment for Data Science or Anything Else》by Simon Hawe http://t.cn/Ai3oCHI5  原图 
+微博位置：无
+发布时间：2019-10-20 07:21
+点赞数：19
+转发数：27
+评论数：6
+发布工具：Mac客户端
+
+【低资源机器翻译最新进展】《Recent advances in low-resource machine translation | Facebook》 http://t.cn/Ai3oGNd4  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-20 06:08
+点赞数：12
+转发数：23
+评论数：3
+发布工具：Mac客户端
+
+《Q8BERT: Quantized 8Bit BERT》O Zafrir, G Boudoukh, P Izsak, M Wasserblat [Intel AI Lab] (2019) http://t.cn/Ai3oLFgp view:http://t.cn/Ai3oLFgO  [组图共5张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:48
+点赞数：15
+转发数：25
+评论数：2
+发布工具：微博 weibo.com
+
+《AlignNet-3D: Fast Point Cloud Registration of Partially Observed Objects》J Groß, A Osep, B Leibe [RWTH Aachen University] (2019) http://t.cn/Ai3o2cPP view:http://t.cn/Ai3o2cvB Home:http://t.cn/Ai3o2cPv  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:41
+点赞数：9
+转发数：17
+评论数：0
+发布工具：微博 weibo.com
+
+《Training Compact Models for Low Resource Entity Tagging using Pre-trained Language Models》P Izsak, S Guskin, M Wasserblat [Intel AI Lab] (2019) http://t.cn/Ai3oAgtX view:http://t.cn/Ai3oAgti GitHub: http://t.cn/R1wyRVv  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:40
+点赞数：3
+转发数：8
+评论数：1
+发布工具：微博 weibo.com
+
+《Visual Indeterminacy in Generative Neural Art》A Hertzmann [Adobe Research] (2019) http://t.cn/Ai3oA6rj view:http://t.cn/Ai3oA6rY  [组图共4张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:37
+点赞数：2
+转发数：4
+评论数：0
+发布工具：微博 weibo.com
+
+《The Query Translation Landscape: a Survey》M N Mami, D Graux, H Thakkar, S Scerri, S Auer, J Lehmann [Fraunhofer IAIS & Trinity College of Dublin & University of Bonn] (2019) http://t.cn/Ai3oAUTs view:http://t.cn/Ai3oAUHv  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:36
+点赞数：0
+转发数：1
+评论数：1
+发布工具：微博 weibo.com
+
+《Context Matters: Recovering Human Semantic Structure from Machine Learning Analysis of Large-Scale Text Corpora》M C Iordan, T Giallanza, C T. Ellis, N Beckage, J D. Cohen [Princeton University & Southern Methodist University & Yale University & Intel Research] (2019) http://t.cn/Ai3oZseY view:http://t.cn/Ai3oZseT [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:31
+点赞数：4
+转发数：7
+评论数：0
+发布工具：微博 weibo.com
+
+《Improving Gradient Estimation in Evolutionary Strategies With Past Descent Directions》F Meier, A Mujika, M M Gauy, A Steger [ETH Zürich] (2019) http://t.cn/Ai3oP0p1 view:http://t.cn/Ai3oP0pd  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:13
+点赞数：4
+转发数：11
+评论数：2
+发布工具：微博 weibo.com
+
+《Restoring ancient text using deep learning: a case study on Greek epigraphy》Y Assael, T Sommerschield, J Prag [University of Oxford] (2019) http://t.cn/Ai3oPUZQ view:http://t.cn/Ai3oPUZ8 GitHub:http://t.cn/Ai3XDls1  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:11
+点赞数：1
+转发数：0
+评论数：1
+发布工具：微博 weibo.com
+
+*《The Local Elasticity of Neural Networks》H He, W J. Su [University of Pennsylvania] (2019) http://t.cn/Ai3ovUyZ view:http://t.cn/Ai3ovUyU GitHub:http://t.cn/Ai3ovUyy  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:07
+点赞数：3
+转发数：11
+评论数：0
+发布工具：微博 weibo.com
+
+*《First-order transition in a model of prestige bias》B Skinner [Ohio State University] (2019) http://t.cn/Ai3SsfKE view:http://t.cn/Ai3SsfKm  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-20 05:02
+点赞数：4
+转发数：1
+评论数：0
+发布工具：微博 weibo.com
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-20 04:46
+点赞数：40
+转发数：10
+评论数：5
+发布工具：Mac客户端
+
+《爱可可老师24小时热门分享(2019.10.19)》  爱可可老师24小时热门分享(2019.10.19)  
+微博位置：无
+发布时间：2019-10-19 21:58
+点赞数：2
+转发数：3
+评论数：1
+发布工具：微博 weibo.com
+
+参照系不同，世界大不同 😲  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-19 21:43
+点赞数：26
+转发数：9
+评论数：3
+发布工具：微博视频
+
+金香蕉海鳗(Golden Banana Moray Eel) 🤩  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-19 21:34
+点赞数：19
+转发数：13
+评论数：4
+发布工具：微博视频
+
+Kyle Shevlin：直到今天我的 .bash_profile 里一直有这些 bash aliases：alias ..="cd .." alias ...="cd ../.." alias ....="cd ../../.." alias .....="cd ../../../.." alias ......="cd ../../../../.." 帮我节省了太多向上跳目录的时间  
+微博位置：无
+发布时间：2019-10-19 21:30
+点赞数：89
+转发数：49
+评论数：12
+发布工具：Mac客户端
+
+第1年：老天保佑别让我用可怕的命令行敲哪怕一条命令~第5年：谁让我离开安全高效的终端环境、面对那些垃圾图形界面，我就跟谁急！  
+微博位置：无
+发布时间：2019-10-19 21:23
+点赞数：72
+转发数：20
+评论数：1
+发布工具：Mac客户端
+
+【向量搜索引擎Milvus】'Milvus - an open source vector search engine.' http://t.cn/Ai3X1U2Z GitHub: http://t.cn/Ai3X1UAF  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-19 20:56
+点赞数：31
+转发数：40
+评论数：3
+发布工具：Mac客户端
+
+'Bottleneck - Fast NumPy array functions written in C' by pydata GitHub: http://t.cn/Ai3X8Y5r  原图 
+微博位置：无
+发布时间：2019-10-19 20:39
+点赞数：16
+转发数：19
+评论数：2
+发布工具：Mac客户端
+
+【基于 AllenNLP 的语义解析器构建框架】’allennlp-semparse - A framework for building semantic parsers (including neural module networks) with AllenNLP, built by the authors of AllenNLP' by AI2 GitHub: http://t.cn/Ai3Xyz0A  原图 
+微博位置：无
+发布时间：2019-10-19 18:57
+点赞数：12
+转发数：16
+评论数：3
+发布工具：Mac客户端
+
+'PyTorch Flexible Hash Embeddings' by Christopher Erick Moody GitHub: http://t.cn/Ai3XLNqW  原图 
+微博位置：无
+发布时间：2019-10-19 18:56
+点赞数：18
+转发数：31
+评论数：3
+发布工具：Mac客户端
+
+【程序运行中修改Python代码而不打断运行过程，可在PyTorch程序训练过程中添加输出、查看统计、保存模型参数等】’reloading - Change Python code while it's running using a reloading loop' by Julian Vossen GitHub: http://t.cn/Ai36FMYk  原图 
+微博位置：无
+发布时间：2019-10-19 18:22
+点赞数：106
+转发数：115
+评论数：34
+发布工具：Mac客户端
+
+Susanna L Harris：读了博士应该会成为某一特定领域的专家，但我发现自己在几乎所有领域都一样糟糕。  
+微博位置：无
+发布时间：2019-10-19 12:23
+点赞数：107
+转发数：43
+评论数：9
+发布工具：Mac客户端
+
+写论文的常见状态：脑子里翻江倒海，眼前一片空白   原图 
+微博位置：无
+发布时间：2019-10-19 11:52
+点赞数：68
+转发数：22
+评论数：9
+发布工具：微博 weibo.com
+
+【博士论文的筹备与撰写】《Preparing for and Writing up your Doctoral Thesis》by Tribe, R., Tunariu, A.D http://t.cn/Ai3JXevS  原图 
+微博位置：无
+发布时间：2019-10-19 10:51
+点赞数：25
+转发数：38
+评论数：8
+发布工具：Mac客户端
+
+1938年，物理学家 Frank Benford 断言，在多个数字列表中，数字 1 倾向于出现在最左边的位置，概率约为30%。会计师甚至用本福特定律来检测报税单造假。 via:Fermat's Library  原图 
+微博位置：无
+发布时间：2019-10-19 10:48
+点赞数：32
+转发数：14
+评论数：5
+发布工具：Mac客户端
+
+英国心理学教授 Richard Wiseman 展示的如何用透视创造视错觉 😵  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-19 10:43
+点赞数：22
+转发数：8
+评论数：0
+发布工具：微博视频
+
+智能，就是适应变化的能力。 - Stephen Hawking  原图 
+微博位置：无
+发布时间：2019-10-19 10:31
+点赞数：53
+转发数：17
+评论数：0
+发布工具：Mac客户端
+
+《爱可可老师一周论文精选(2019.10.19)》  爱可可老师一周论文精选(2019.10.19)  
+微博位置：无
+发布时间：2019-10-19 10:23
+点赞数：8
+转发数：12
+评论数：1
+发布工具：微博 weibo.com
+
+《爱可可老师一周热门分享(2019.10.19)》  爱可可老师一周热门分享(2019.10.19)  
+微博位置：无
+发布时间：2019-10-19 10:17
+点赞数：6
+转发数：10
+评论数：1
+发布工具：微博 weibo.com
+
+【实战入门：基于线性回归的Airbnb房租价格预测】《Airbnb Price Prediction Using Linear Regression (Scikit-Learn and StatsModels)》by Alen Tersakyan http://t.cn/Ai3xkyPv  [组图共5张] 原图 
+微博位置：无
+发布时间：2019-10-19 09:31
+点赞数：39
+转发数：48
+评论数：6
+发布工具：Mac客户端
+
+【Jupyter 里的 GraphFrames 图分析实战指南】《GraphFrames in Jupyter: a practical guide》by Steven Van Dorpe http://t.cn/Ai3x0sKC  [组图共5张] 原图 
+微博位置：无
+发布时间：2019-10-19 08:27
+点赞数：30
+转发数：42
+评论数：6
+发布工具：Mac客户端
+
+【指标问题对AI是个大问题】《The problem with metrics is a big problem for AI · fast.ai》by Rachel Thomas http://t.cn/Ai3xiIIv  [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-19 07:50
+点赞数：7
+转发数：6
+评论数：2
+发布工具：Mac客户端
+
+【Facebook 开源 ReAgent：用于构建推理系统的模块化端到端平台】《Open-sourcing ReAgent, a modular, end-to-end platform for building reasoning systems》 http://t.cn/Ai3xJY0h Home:http://t.cn/Ai3xJY0z GitHub: http://t.cn/Ai3xJY0L  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-19 07:47
+点赞数：17
+转发数：32
+评论数：7
+发布工具：Mac客户端
+
+【EurNLP 2019 亮点摘要】《EurNLP2019 Highlights》by Wei Zhao http://t.cn/Ai3xIeT5  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-19 07:39
+点赞数：10
+转发数：19
+评论数：2
+发布工具：Mac客户端
+
+《Mixture-of-Experts Variational Autoencoder for clustering and generating from similarity-based representations》A Kopf, V Fortuin, V R Somnath, M Claassen [ETH Zürich] (2019) http://t.cn/Ai3MrRR8 view:http://t.cn/Ai3MrRRH  [组图共8张] 原图 
+微博位置：无
+发布时间：2019-10-19 05:53
+点赞数：20
+转发数：27
+评论数：3
+发布工具：微博 weibo.com
+
+《Universal Text Representation from BERT: An Empirical Study》X Ma, P Xu, Z Wang, R Nallapati, B Xiang [AWS AI Labs] (2019) http://t.cn/Ai3MBnRN view:http://t.cn/Ai3MBnRO  [组图共7张] 原图 
+微博位置：无
+发布时间：2019-10-19 05:49
+点赞数：19
+转发数：17
+评论数：5
+发布工具：微博 weibo.com
+
+《Scaling up Psychology via Scientific Regret Minimization: A Case Study in Moral Decision-Making》M Agrawal, J C. Peterson, T L. Griffiths [Princeton University] (2019) http://t.cn/Ai3M1h7z view:http://t.cn/Ai3M1h77  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-19 05:42
+点赞数：9
+转发数：5
+评论数：1
+发布工具：微博 weibo.com
+
+《Uncritical polarized groups: The impact of spreading fake news as fact in social networks》J S Martin, F Drubi, D Rodriguez-Perez [Universidad Polit´ecnica de Madrid & Universidad de Oviedo & Universidad Nacional deEducaci´on a Distancia] (2019) http://t.cn/Ai3Mu4ld view:http://t.cn/Ai3Mu4le [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-19 05:35
+点赞数：5
+转发数：2
+评论数：1
+发布工具：微博 weibo.com
+
+《Visual Hide and Seek》B Chen, S Song, H Lipson, C Vondrick [Columbia University] (2019) http://t.cn/Ai3MnpRJ view:http://t.cn/Ai3MnpRo Home:http://t.cn/Ai3MnpR6  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-19 05:28
+点赞数：4
+转发数：1
+评论数：10
+发布工具：微博 weibo.com
+
+《Discrete Residual Flow for Probabilistic Pedestrian Behavior Prediction》A Jain, S Casas, R Liao, Y Xiong, S Feng, S Segal, R Urtasun [Uber Advanced Technologies Group & University of Toronto & UC Berkeley] (2019) http://t.cn/Ai3METzL view:http://t.cn/Ai3METzA  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-19 05:25
+点赞数：7
+转发数：14
+评论数：2
+发布工具：微博 weibo.com
+
+《PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable》S Bao, H He, F Wang, H Wu [Baidu] (2019) http://t.cn/Ai3MR9a4 view:http://t.cn/Ai3MR9ay  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-19 05:20
+点赞数：4
+转发数：5
+评论数：1
+发布工具：微博 weibo.com
+
+《今日学术视野(2019.10.19)》http://t.cn/Ai3MHOrj  
+微博位置：无
+发布时间：2019-10-19 05:07
+点赞数：1
+转发数：1
+评论数：0
+发布工具：Mac客户端
+
+早！  原图 
+微博位置：无
+发布时间：2019-10-19 05:05
+点赞数：58
+转发数：16
+评论数：7
+发布工具：Mac客户端
+
+晚安~   爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-18 21:38
+点赞数：33
+转发数：6
+评论数：12
+发布工具：微博视频
+
+《爱可可老师24小时热门分享(2019.10.18)》  爱可可老师24小时热门分享(2019.10.18)  
+微博位置：无
+发布时间：2019-10-18 21:37
+点赞数：7
+转发数：6
+评论数：1
+发布工具：微博 weibo.com
+
+“现在的孩子们啊”效应：每一代人都认为新一代人有缺陷——这种传统至少可以追溯到公元前624年。有一项新研究探讨了为什么会出现这种情况：《Kids these days: Why the youth of today seem lacking》http://t.cn/Ai3fpoNa via:Steve Stewart-Williams  [组图共3张] 原图 
+微博位置：无
+发布时间：2019-10-18 21:25
+点赞数：29
+转发数：15
+评论数：2
+发布工具：Mac客户端
+
+【运动分析可视化：Anita Włodarczyk在里约奥运会上的链球世界纪录——质心、锤位置、相位、能量分析】《I did a simple analysis of Anita Włodarczyk's world record hammer throw at the Rio Olympics!》http://t.cn/Ai3VduVq  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-18 19:37
+点赞数：31
+转发数：42
+评论数：3
+发布工具：微博视频
+
+【视频架构搜索】《Video Architecture Search | Google AI Blog》 http://t.cn/Ai3VRV4a paper:《Evolving Space-Time Neural Architectures for Videos》http://t.cn/Ai3VRV4X  [组图共5张] 原图 
+微博位置：无
+发布时间：2019-10-18 19:11
+点赞数：36
+转发数：94
+评论数：12
+发布工具：Mac客户端
+
+【SVG VAE: 可缩放矢量图字体生成】《SVG VAE: Generating Scalable Vector Graphics Typography》 http://t.cn/Ai3VQmdZ paper:《A Learned Representation for Scalable Vector Graphics》 http://weibo.com/1402400261/HokKajXOq GitHub:http://t.cn/Ai3VQmrs  [组图共4张] 原图 
+微博位置：无
+发布时间：2019-10-18 19:06
+点赞数：15
+转发数：21
+评论数：8
+发布工具：Mac客户端
+
+【从单幅图像生成高质量动画风景】  paper:《Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis》http://t.cn/Ai3VOazb  爱可可-爱生活的微博视频  
+微博位置：无
+发布时间：2019-10-18 18:46
+点赞数：25
+转发数：42
+评论数：9
+发布工具：微博视频
+
+'ICCV 2019 Tutorial: Everything You Need to Know to Reproduce SOTA Deep Learning Models by Joshua Z. Zhang GitHub: http://t.cn/Ai3Vapuo  原图 
+微博位置：无
+发布时间：2019-10-18 18:20
+点赞数：32
+转发数：56
+评论数：9
+发布工具：Mac客户端
+
+【开放信息抽取(OpenIE)/关系抽取(ORE)相关文献与数据】’Open Information Extraction (OpenIE) and Open Relation Extraction (ORE) papers and data.' by NPCai GitHub: http://t.cn/Ai3VX04i  原图 
+微博位置：无
+发布时间：2019-10-18 18:17
+点赞数：10
+转发数：32
+评论数：6
+发布工具：Mac客户端
+
+【MLQA：多语言抽取式QA问答数据集】’MLQA - a benchmark dataset for evaluating cross-lingual question answering performance' by Facebook Research GitHub: http://t.cn/Ai3tm13M paper:*《MLQA: Evaluating Cross-lingual Extractive Question Answering》[Facebook AI Research] (2019) http://t.cn/Ai3tm13t [组图共2张] 原图 
+微博位置：无
+发布时间：2019-10-18 13:31
+点赞数：9
+转发数：15
+评论数：2
+发布工具：Mac客户端
+
+【U-net 抠图】’Background removal using U-net, GAN and image matting - Background Removal based on U-Net' by Etienne Pierre-Doray GitHub: http://t.cn/Ai3tnSRK  原图 
+微博位置：无
+发布时间：2019-10-18 13:27
+点赞数：33
+转发数：52
+评论数：17
+发布工具：Mac客户端
+
+【trident net + refinedet 目标检测】’multitrident(updating) - I combine trident net and refinedet to detect objects of different scales at the same time in one forward propagation' by wei-yuma GitHub: http://t.cn/Ai3tNemr  [组图共6张] 原图 
+微博位置：无
+发布时间：2019-10-18 12:49
+点赞数：38
+转发数：69
+评论数：10
+发布工具：Mac客户端
+
+【自助餐线路模拟与改进】《Buffet lines are terrible, but let's try to improve them using computer simulations》by Erik Bernhardsson http://t.cn/Ai3tJ0Ci GitHub:http://t.cn/Ai3tJ0Ca  [组图共9张] 原图 
+微博位置：无
+发布时间：2019-10-18 12:21
+点赞数：38
+转发数：40
+评论数：5
+发布工具：Mac客户端
+
